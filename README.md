@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asadullah48, Full-Stack developer, Video Editor, Digital Marketer & Freelancer
 - 👀 I’m interested in Travelling, Reading books & playing outdoor sprots especially cricket
-- 🌱 I’m currently learning typescipt/java script, React / Next.js & Dockers
+- 🌱 I’m currently learning React / Next.js, Dockers, Go & Rust.. Agentic AI
 - 💞️ I’m looking to collaborate on AI project
 - 📫 How to reach me asadullahshafique@hotmail.com (+923213771445)
 - 😄 Pronouns: Asad
