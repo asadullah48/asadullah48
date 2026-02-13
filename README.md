@@ -18,7 +18,7 @@
 
 I'm an **Agentic AI Developer** at Panaversity building autonomous AI systems, cloud-native platforms, and specification-driven applications. I recently completed **6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot — all in one system.
 
-```
+```yaml
   Hackathons Completed : 6/6 (Bronze → Platinum)
   Kubernetes Services  : 14 running in 6GB cluster
   Tests Passing        : 180+
@@ -171,6 +171,12 @@ Technologies I'm actively exploring and integrating into my workflow:
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asadullah48&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -203,16 +209,12 @@ Technologies I'm actively exploring and integrating into my workflow:
 
 ---
 
-## Latest Content
+## Writing & Content
 
-<!-- BLOG-POST-LIST:START -->
-- [Claude Cowork: The AI Agent That Actually Does Your Work](https://medium.com/@texcotembroiderysourcinghouse)
-- Building Production-Ready RAG Systems
-- Spec-Driven Development for AI Applications
-<!-- BLOG-POST-LIST:END -->
+[![YouTube](https://img.shields.io/badge/YouTube-Building_AI_Systems-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@asadullahshafique4261)
+[![Medium](https://img.shields.io/badge/Medium-Deep_Dives_in_AI-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Building_AI_Systems-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@asadullahshafique4261)
-[![Medium](https://img.shields.io/badge/Medium-Deep_Dives_in_AI-12100E?style=flat-square&logo=medium)](https://medium.com/@texcotembroiderysourcinghouse)
+Topics I write about: **Agentic AI**, **Spec-Driven Development**, **Cloud-Native Architecture**, **Constitutional AI Safety**
 
 ---
 
