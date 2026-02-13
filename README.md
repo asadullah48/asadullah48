@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Asadullah%20Shafique&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Developer%20%7C%20Cloud-Native%20Engineer&descAlignY=55&descAlign=50&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Asadullah%20Shafique&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Agentic%20AI%20Developer%20%7C%20Cloud-Native%20Engineer&descAlignY=52&descAlign=50&descSize=22)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI+that+doesn't+just+respond+%E2%80%94+it+acts;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Constitutional+AI+%7C+Event-Driven+%7C+Cloud-Native;Spec-First+Development+%7C+Production+Quality&font=Fira+Code&size=22&duration=3000&pause=1500&color=36BCF7FF&center=true&vCenter=true&width=700&height=80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI+that+doesn't+just+respond+%E2%80%94+it+acts;MCP+%7C+LangGraph+%7C+Constitutional+AI+%7C+Kubernetes;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Spec-First+Development+%7C+Production+Quality&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
@@ -16,15 +16,32 @@
 
 ## About Me
 
-I'm an **Agentic AI Developer** at Panaversity building autonomous AI systems, cloud-native platforms, and specification-driven applications. I recently completed **6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot — all in one system.
+I'm an **Agentic AI Developer** at Panaversity building autonomous AI systems that take action, not just respond. I recently completed **6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot.
+
+<table>
+<tr>
+<td width="50%">
 
 ```yaml
-  Hackathons Completed : 6/6 (Bronze → Platinum)
-  Kubernetes Services  : 14 running in 6GB cluster
-  Tests Passing        : 180+
-  Architecture         : Event-Driven Microservices + Constitutional AI
-  Methodology          : Specification-First Development
+Hackathons Completed : 6/6 (Bronze → Platinum)
+Kubernetes Services  : 14 running in 6GB cluster
+Tests Passing        : 180+
+Architecture         : Event-Driven + Constitutional AI
+Methodology          : Specification-First Development
 ```
+
+</td>
+<td width="50%">
+
+**Currently Building:**
+- Multi-agent systems with **MCP** & **A2A** protocols
+- Production RAG with vector databases
+- Platform engineering for AI workloads
+- Open-source AI safety tooling
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,46 +49,78 @@ I'm an **Agentic AI Developer** at Panaversity building autonomous AI systems, c
 
 ### [Hackathon Completion Engine](https://github.com/asadullah48/hackathon-completion-engine)
 
+<div align="center">
+
 [![H4](https://img.shields.io/badge/H4-Platinum_Tier-blue?style=flat-square)]()
 [![H4.5](https://img.shields.io/badge/H4.5-Discord_Bot-5865F2?style=flat-square)]()
 [![Tests](https://img.shields.io/badge/Tests-180%2B_Passing-brightgreen?style=flat-square)]()
 [![K8s](https://img.shields.io/badge/K8s-14_Services-orange?style=flat-square)]()
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square)]()
+[![Constitutional](https://img.shields.io/badge/AI_Safety-Constitutional-ff6b6b?style=flat-square)]()
 
-A production-grade, Kubernetes-orchestrated application built progressively across 6 hackathons, featuring Constitutional AI safety, event-driven microservices, and a Discord bot interface.
+</div>
+
+A production-grade, Kubernetes-orchestrated AI application built progressively across 6 hackathons, featuring **Constitutional AI safety**, event-driven microservices, and multi-interface access.
 
 ```mermaid
 graph TD
-    A["Discord Bot\n(TodoMaster AI)"] -->|REST API| B["FastAPI Backend\n(+ Dapr Sidecar)"]
-    C["Next.js Frontend"] -->|REST API| B
-    B -->|SQL| D["PostgreSQL 15\n(StatefulSet)"]
-    B -->|Dapr Pub/Sub| E["Apache Kafka\n(Strimzi KRaft)"]
-    E --> F["Notification Service"]
-    G["Prometheus"] -->|Scrape| B
+    subgraph "User Interfaces"
+        A["Discord Bot<br/>(TodoMaster AI)"]
+        C["Next.js Frontend"]
+    end
+
+    subgraph "Core Platform"
+        B["FastAPI Backend<br/>(+ Dapr Sidecar)"]
+        I["Constitutional AI<br/>Middleware"]
+    end
+
+    subgraph "Data Layer"
+        D["PostgreSQL 15<br/>(StatefulSet)"]
+        H["Redis 7<br/>(State Store)"]
+    end
+
+    subgraph "Event Streaming"
+        E["Apache Kafka<br/>(Strimzi KRaft)"]
+        F["Notification<br/>Service"]
+    end
+
+    subgraph "Observability"
+        G["Prometheus"]
+    end
+
+    A -->|REST API| B
+    C -->|REST API| B
+    I -->|Block/Flag/Allow| B
+    B -->|SQL| D
+    B -->|State| H
+    B -->|Dapr Pub/Sub| E
+    E --> F
+    G -->|Scrape| B
     G -->|Scrape| F
-    B -->|State Store| H["Redis 7"]
-    I["Constitutional AI\nMiddleware"] -->|Block / Flag / Allow| B
 
     style A fill:#5865F2,color:#fff
-    style B fill:#009688,color:#fff
     style C fill:#000000,color:#fff
-    style D fill:#336791,color:#fff
-    style E fill:#231f20,color:#fff
-    style F fill:#FF6B6B,color:#fff
-    style G fill:#e6522c,color:#fff
-    style H fill:#DC382D,color:#fff
+    style B fill:#009688,color:#fff
     style I fill:#ff6b6b,color:#fff
+    style D fill:#336791,color:#fff
+    style H fill:#DC382D,color:#fff
+    style E fill:#231f20,color:#fff
+    style F fill:#4ECDC4,color:#fff
+    style G fill:#e6522c,color:#fff
 ```
 
-**What Makes It Different:**
+<details>
+<summary><b>Key Differentiators</b></summary>
 
-| Highlight | Detail |
-|-----------|--------|
+| Feature | Implementation |
+|---------|---------------|
 | **Constitutional AI** | Blocks homework-solving queries with Socratic responses, flags edge cases for human review |
 | **Zero-Code Infra Swap** | Switched pub/sub from Redis → Kafka by changing 1 YAML file (Dapr abstraction) |
 | **14 Services in 6GB** | Full production stack at 44% memory utilization on Minikube |
 | **Event-Driven Audit** | Every interaction published to Kafka with 24h retention |
 | **Multi-Interface** | Same backend serves Next.js frontend + Discord bot (TodoMaster AI) |
+
+</details>
 
 <details>
 <summary><b>Hackathon Progression (Bronze → Platinum)</b></summary>
@@ -85,17 +134,15 @@ graph TD
 | **H4** | Cloud-Native | `Platinum` | Full Kubernetes cluster (14 manifests), CI/CD, Prometheus | - |
 | **H4.5** | Discord Bot | `Extended` | TodoMaster AI with 6 slash commands, K8s deployment | 31/31 |
 
-**Result: 5/5 hackathons completed + extended Discord bot integration**
-
 </details>
 
 ---
 
 ## Other Projects
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| **Physical AI Textbook Platform** | Next.js, FastAPI, RAG, Gemini API, Vercel | Interactive textbook with semantic search and context-aware RAG chatbot |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Physical AI Textbook Platform** | Next.js, FastAPI, RAG, Gemini API | Interactive textbook with semantic search and context-aware RAG chatbot |
 | **LearnFlow AI Platform** | Microservices, FastAPI, K8s, Docker | 5 specialized AI agents for personalized programming education |
 | **Course Companion FTE** | FastAPI, ChatGPT API, Zero-Backend | Constitutional AI rules for LLM-based course management |
 | **Claude.ai Skills Marketplace** | 39 Skills, 8 Categories | Reusable agent skills — document processing, automation, dev tools |
@@ -103,6 +150,8 @@ graph TD
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 **Languages & Frameworks**
 
@@ -116,6 +165,8 @@ graph TD
 
 [![AI & Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,linux,vscode,vercel,discord&theme=dark&perline=8)](https://skillicons.dev)
 
+</div>
+
 <details>
 <summary><b>Full Stack Breakdown</b></summary>
 
@@ -124,18 +175,17 @@ const stack = {
     languages:      ["Python", "TypeScript", "JavaScript"],
     frontend:       ["Next.js 14", "React", "Tailwind CSS"],
     backend:        ["FastAPI", "Node.js", "Uvicorn"],
-    ai:             ["Constitutional AI", "RAG Systems", "LangChain", "Agentic Workflows"],
-    databases:      ["PostgreSQL 15", "Redis 7"],
+    ai:             ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP"],
+    databases:      ["PostgreSQL 15", "Redis 7", "Vector DBs (Pinecone, Chroma)"],
     infrastructure: ["Kubernetes", "Docker", "Dapr", "Helm"],
     streaming:      ["Apache Kafka (Strimzi KRaft)"],
-    monitoring:     ["Prometheus", "Grafana"],
+    monitoring:     ["Prometheus", "Grafana", "OpenTelemetry"],
     cicd:           ["GitHub Actions (test → build → validate → security)"],
     bots:           ["discord.py (slash commands)"],
     apis:           ["OpenAI", "Claude (Anthropic)", "Google Gemini"],
-    protocols:      ["MCP (Model Context Protocol)", "REST", "Dapr Pub/Sub"],
+    protocols:      ["MCP (Model Context Protocol)", "A2A", "REST", "Dapr Pub/Sub"],
     architecture:   ["Microservices", "Event-Driven", "API-First", "Infrastructure-Agnostic"],
-    methodology:    "Specification-First Development",
-    environment:    "Windows 11 + Ubuntu WSL2"
+    methodology:    "Specification-First Development"
 };
 ```
 
@@ -143,18 +193,53 @@ const stack = {
 
 ---
 
-## What's Next — 2026 Roadmap
+## 2026 Technology Roadmap
 
-Technologies I'm actively exploring and integrating into my workflow:
+<div align="center">
+
+```mermaid
+mindmap
+  root((2026 Focus))
+    Agent Protocols
+      MCP
+      A2A Protocol
+      Claude Agent SDK
+      OpenAI Agents SDK
+    Multi-Agent Systems
+      LangGraph
+      CrewAI
+      AutoGen
+      OpenAI Swarm
+    Observability
+      OpenTelemetry
+      Grafana Stack
+      Loki + Tempo
+    Vector Databases
+      Pinecone
+      Qdrant
+      Chroma
+      Weaviate
+    Edge AI
+      WebAssembly
+      ONNX Runtime
+      On-device LLMs
+    Platform Engineering
+      Backstage
+      Crossplane
+      Terraform
+```
+
+</div>
 
 | Area | Technologies | Why It Matters |
 |------|-------------|----------------|
-| **Agent Protocols** | MCP, A2A (Agent-to-Agent), Claude Agent SDK | Standardizing how AI agents communicate and use tools |
-| **Multi-Agent Systems** | LangGraph, CrewAI, OpenAI Swarm | Orchestrating multiple specialized agents for complex workflows |
+| **Agent Protocols** | MCP, A2A (Google/Linux Foundation), Claude Agent SDK | Standardizing how AI agents communicate and use tools |
+| **Multi-Agent Systems** | LangGraph, CrewAI, AutoGen, OpenAI Swarm | Orchestrating specialized agents for complex workflows |
 | **Observability** | OpenTelemetry, Grafana Stack (Loki + Tempo) | Unified telemetry for AI-native applications |
-| **Vector Databases** | Pinecone, Qdrant, Chroma | Scaling RAG systems beyond prototype |
+| **Vector Databases** | Pinecone, Qdrant, Chroma, Weaviate | Scaling RAG systems to production |
 | **Edge AI** | WebAssembly (Wasm), ONNX Runtime | Running inference at the edge without cloud dependency |
 | **Platform Engineering** | Backstage, Crossplane, Terraform | Building internal developer platforms for AI workloads |
+| **AI Safety** | Constitutional AI, RLHF, Human-in-the-Loop | Ensuring AI systems are safe and aligned |
 
 ---
 
@@ -186,10 +271,10 @@ Technologies I'm actively exploring and integrating into my workflow:
 - [x] Complete all 5 Panaversity Hackathons (Bronze → Platinum)
 - [x] Build cloud-native system with Kubernetes, Kafka, and Dapr
 - [x] Implement Constitutional AI safety with Human-in-the-Loop
-- [ ] Build a multi-agent system with MCP and A2A protocols
+- [ ] Build multi-agent system with MCP and A2A protocols
 - [ ] Contribute to 3+ open-source AI/ML projects
 - [ ] Publish 24+ technical articles and videos
-- [ ] Launch a course on Specification-Driven AI Development
+- [ ] Launch course on Specification-Driven AI Development
 - [ ] Grow YouTube channel to 1K+ subscribers
 
 ---
@@ -211,10 +296,14 @@ Technologies I'm actively exploring and integrating into my workflow:
 
 ## Writing & Content
 
+<div align="center">
+
 [![YouTube](https://img.shields.io/badge/YouTube-Building_AI_Systems-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@asadullahshafique4261)
 [![Medium](https://img.shields.io/badge/Medium-Deep_Dives_in_AI-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
 
-Topics I write about: **Agentic AI**, **Spec-Driven Development**, **Cloud-Native Architecture**, **Constitutional AI Safety**
+</div>
+
+**Topics:** Agentic AI | Spec-Driven Development | Cloud-Native Architecture | Constitutional AI Safety | Multi-Agent Systems
 
 ---
 
