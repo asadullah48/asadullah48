@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\ndocs: polish profile README with visual enhancements and 2026 roadmap\n\nAdd capsule-render header/footer, typing SVG animation, skillicons.dev\ntech stack grids, mermaid architecture diagram, GitHub trophies, activity\ngraph, snake contribution animation workflow, and 2026 technology roadmap.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(gh auth status:*)",
+      "mcp__plugin_serena_serena__list_dir"
+    ]
+  }
+}
