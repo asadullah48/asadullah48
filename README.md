@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Asadullah%20Shafique&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Agentic%20AI%20Developer%20%7C%20Cloud-Native%20Engineer&descAlignY=52&descAlign=50&descSize=22)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Asadullah%20Shafique&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Agentic%20AI%20Developer%20%7C%20Cloud-Native%20Engineer%20%7C%20Agent%20Factory%20Builder&descAlignY=52&descAlign=50&descSize=20)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI+that+doesn't+just+respond+%E2%80%94+it+acts;MCP+%7C+LangGraph+%7C+Constitutional+AI+%7C+Kubernetes;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Spec-First+Development+%7C+Production+Quality&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Platinum;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
@@ -16,32 +16,53 @@
 
 ## About Me
 
-I'm an **Agentic AI Developer** at Panaversity building autonomous AI systems that take action, not just respond. I recently completed **6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot.
+I'm an **Agentic AI Developer** at Panaversity building autonomous AI systems that take action, not just respond. I have **completed all 6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot.
+
+Now I'm entering the next phase: **building Digital Agent Factories** — turning AI protocols (MCP, A2A, Agent SDKs) into production-ready digital employees (FTEs) using spec-driven automation.
 
 <table>
 <tr>
 <td width="50%">
 
 ```yaml
-Hackathons Completed : 6/6 (Bronze → Platinum)
+Hackathons Completed : 6/6 ✅ (Bronze → Platinum)
 Kubernetes Services  : 14 running in 6GB cluster
 Tests Passing        : 180+
 Architecture         : Event-Driven + Constitutional AI
 Methodology          : Specification-First Development
+Current Phase        : Agent Factory & Digital FTEs
 ```
 
 </td>
 <td width="50%">
 
 **Currently Building:**
-- Multi-agent systems with **MCP** & **A2A** protocols
-- Production RAG with vector databases
-- Platform engineering for AI workloads
-- Open-source AI safety tooling
+- 🏭 **Digital Agent Factories** — AI employees powered by specs, skills & MCP
+- 🤖 Multi-agent systems with **MCP**, **A2A** & **Agent SDKs**
+- 🧠 Production RAG with vector databases
+- ☁️ Platform engineering for AI workloads
+- 🛡️ Open-source AI safety tooling
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🏭 The Agent Factory Vision
+
+> *In the AI era, the most valuable companies won't sell software — they'll manufacture AI employees, powered by agents, specs, skills, MCP, autonomy and cloud-native technologies.*
+
+The shift from **developer-as-typist** to **developer-as-orchestrator** is here. I'm building systems where natural-language specs drive autonomous agents that don't just respond — they **act, coordinate, and deliver**.
+
+| Concept | Description |
+|---------|-------------|
+| **Digital FTEs** | AI agents that function as full-time digital employees, handling end-to-end workflows |
+| **Agent Skills** | Reusable, composable capabilities (39 skills across 8 categories on Claude.ai) |
+| **Spec-Driven Automation** | From manual coding to specification-first development — the spec IS the product |
+| **Agent Protocols** | MCP (Model Context Protocol) & A2A (Agent-to-Agent) for standardized agent communication |
+
+📊 **Reference:** [Agent Factory: Building Digital FTEs — Presentation](https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwfNh8vRjQ/edit?usp=sharing)
 
 ---
 
@@ -53,6 +74,7 @@ Methodology          : Specification-First Development
 
 [![H4](https://img.shields.io/badge/H4-Platinum_Tier-blue?style=flat-square)]()
 [![H4.5](https://img.shields.io/badge/H4.5-Discord_Bot-5865F2?style=flat-square)]()
+[![All Complete](https://img.shields.io/badge/All_Hackathons-Complete_✅-brightgreen?style=flat-square)]()
 [![Tests](https://img.shields.io/badge/Tests-180%2B_Passing-brightgreen?style=flat-square)]()
 [![K8s](https://img.shields.io/badge/K8s-14_Services-orange?style=flat-square)]()
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square)]()
@@ -60,7 +82,7 @@ Methodology          : Specification-First Development
 
 </div>
 
-A production-grade, Kubernetes-orchestrated AI application built progressively across 6 hackathons, featuring **Constitutional AI safety**, event-driven microservices, and multi-interface access.
+A production-grade, Kubernetes-orchestrated AI application built progressively across **all 6 hackathons** (now complete), featuring **Constitutional AI safety**, event-driven microservices, and multi-interface access.
 
 ```mermaid
 graph TD
@@ -68,26 +90,22 @@ graph TD
         A["Discord Bot<br/>(TodoMaster AI)"]
         C["Next.js Frontend"]
     end
-
     subgraph "Core Platform"
         B["FastAPI Backend<br/>(+ Dapr Sidecar)"]
         I["Constitutional AI<br/>Middleware"]
     end
-
     subgraph "Data Layer"
         D["PostgreSQL 15<br/>(StatefulSet)"]
         H["Redis 7<br/>(State Store)"]
     end
-
     subgraph "Event Streaming"
         E["Apache Kafka<br/>(Strimzi KRaft)"]
         F["Notification<br/>Service"]
     end
-
     subgraph "Observability"
         G["Prometheus"]
     end
-
+    
     A -->|REST API| B
     C -->|REST API| B
     I -->|Block/Flag/Allow| B
@@ -97,7 +115,7 @@ graph TD
     E --> F
     G -->|Scrape| B
     G -->|Scrape| F
-
+    
     style A fill:#5865F2,color:#fff
     style C fill:#000000,color:#fff
     style B fill:#009688,color:#fff
@@ -123,16 +141,16 @@ graph TD
 </details>
 
 <details>
-<summary><b>Hackathon Progression (Bronze → Platinum)</b></summary>
+<summary><b>Hackathon Progression — All Complete ✅ (Bronze → Platinum)</b></summary>
 
 | Hackathon | Project | Tier | What I Built | Tests |
 |-----------|---------|------|-------------|-------|
-| **H0** | Personal AI CTO | `Bronze` | File watcher, auto-categorization, HITL approvals | 7/7 |
-| **H1** | Course Companion | `Silver` | FastAPI backend, Constitutional AI filter, conversation tracking | - |
-| **H2** | AI-Powered Todo | `Silver` | Spec-driven development, AI spec generation, CRUD with constitution | - |
-| **H3** | Advanced Todo | `Gold` | Event-driven architecture, Kafka, Dapr, team collaboration | 149/149 |
-| **H4** | Cloud-Native | `Platinum` | Full Kubernetes cluster (14 manifests), CI/CD, Prometheus | - |
-| **H4.5** | Discord Bot | `Extended` | TodoMaster AI with 6 slash commands, K8s deployment | 31/31 |
+| **H0** ✅ | Personal AI CTO | `Bronze` | File watcher, auto-categorization, HITL approvals | 7/7 |
+| **H1** ✅ | Course Companion | `Silver` | FastAPI backend, Constitutional AI filter, conversation tracking | - |
+| **H2** ✅ | AI-Powered Todo | `Silver` | Spec-driven development, AI spec generation, CRUD with constitution | - |
+| **H3** ✅ | Advanced Todo | `Gold` | Event-driven architecture, Kafka, Dapr, team collaboration | 149/149 |
+| **H4** ✅ | Cloud-Native | `Platinum` | Full Kubernetes cluster (14 manifests), CI/CD, Prometheus | - |
+| **H4.5** ✅ | Discord Bot | `Extended` | TodoMaster AI with 6 slash commands, K8s deployment | 31/31 |
 
 </details>
 
@@ -146,6 +164,9 @@ graph TD
 | **LearnFlow AI Platform** | Microservices, FastAPI, K8s, Docker | 5 specialized AI agents for personalized programming education |
 | **Course Companion FTE** | FastAPI, ChatGPT API, Zero-Backend | Constitutional AI rules for LLM-based course management |
 | **Claude.ai Skills Marketplace** | 39 Skills, 8 Categories | Reusable agent skills — document processing, automation, dev tools |
+| **CMT Stitching System** | TypeScript, Next.js | CMT Stitching & Packing Management System |
+| **RepoToVideo** | Python, AI | Turn any GitHub repository into a viral promo video with AI |
+| **Mathematics for AI** | Python, Educational | Comprehensive repository covering mathematical foundations of AI |
 
 ---
 
@@ -172,20 +193,23 @@ graph TD
 
 ```javascript
 const stack = {
-    languages:      ["Python", "TypeScript", "JavaScript"],
-    frontend:       ["Next.js 14", "React", "Tailwind CSS"],
-    backend:        ["FastAPI", "Node.js", "Uvicorn"],
-    ai:             ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP"],
-    databases:      ["PostgreSQL 15", "Redis 7", "Vector DBs (Pinecone, Chroma)"],
-    infrastructure: ["Kubernetes", "Docker", "Dapr", "Helm"],
-    streaming:      ["Apache Kafka (Strimzi KRaft)"],
-    monitoring:     ["Prometheus", "Grafana", "OpenTelemetry"],
-    cicd:           ["GitHub Actions (test → build → validate → security)"],
-    bots:           ["discord.py (slash commands)"],
-    apis:           ["OpenAI", "Claude (Anthropic)", "Google Gemini"],
-    protocols:      ["MCP (Model Context Protocol)", "A2A", "REST", "Dapr Pub/Sub"],
-    architecture:   ["Microservices", "Event-Driven", "API-First", "Infrastructure-Agnostic"],
-    methodology:    "Specification-First Development"
+  languages: ["Python", "TypeScript", "JavaScript"],
+  frontend: ["Next.js 14", "React", "Tailwind CSS"],
+  backend: ["FastAPI", "Node.js", "Uvicorn"],
+  ai: ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP", "A2A"],
+  agentSDKs: ["Claude Agent SDK", "OpenAI Agents SDK", "Google ADK"],
+  agentFrameworks: ["LangGraph", "CrewAI", "AutoGen", "OpenAI Swarm"],
+  databases: ["PostgreSQL 15", "Redis 7", "Vector DBs (Pinecone, Chroma, Qdrant, Weaviate)"],
+  infrastructure: ["Kubernetes", "Docker", "Dapr", "Helm"],
+  streaming: ["Apache Kafka (Strimzi KRaft)"],
+  monitoring: ["Prometheus", "Grafana", "OpenTelemetry"],
+  cicd: ["GitHub Actions (test → build → validate → security)"],
+  bots: ["discord.py (slash commands)"],
+  apis: ["OpenAI", "Claude (Anthropic)", "Google Gemini"],
+  protocols: ["MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "REST", "Dapr Pub/Sub"],
+  architecture: ["Microservices", "Event-Driven", "API-First", "Infrastructure-Agnostic"],
+  methodology: "Specification-First Development",
+  nextPhase: "Digital Agent Factory Builder"
 };
 ```
 
@@ -200,11 +224,17 @@ const stack = {
 ```mermaid
 mindmap
   root((2026 Focus))
+    Agent Factory & FTEs
+      Digital Employees
+      Spec-Driven Agents
+      Agent Skills Marketplace
+      Monetizing AI Knowledge
     Agent Protocols
       MCP
       A2A Protocol
       Claude Agent SDK
       OpenAI Agents SDK
+      Google ADK
     Multi-Agent Systems
       LangGraph
       CrewAI
@@ -233,7 +263,8 @@ mindmap
 
 | Area | Technologies | Why It Matters |
 |------|-------------|----------------|
-| **Agent Protocols** | MCP, A2A (Google/Linux Foundation), Claude Agent SDK | Standardizing how AI agents communicate and use tools |
+| **🏭 Agent Factory** | Digital FTEs, Agent Skills, Spec-Driven Automation | Building AI employees that handle end-to-end workflows autonomously |
+| **Agent Protocols** | MCP, A2A (Google/Linux Foundation), Claude Agent SDK, OpenAI Agents SDK | Standardizing how AI agents communicate and use tools |
 | **Multi-Agent Systems** | LangGraph, CrewAI, AutoGen, OpenAI Swarm | Orchestrating specialized agents for complex workflows |
 | **Observability** | OpenTelemetry, Grafana Stack (Loki + Tempo) | Unified telemetry for AI-native applications |
 | **Vector Databases** | Pinecone, Qdrant, Chroma, Weaviate | Scaling RAG systems to production |
@@ -268,14 +299,19 @@ mindmap
 
 ## Goals
 
-- [x] Complete all 5 Panaversity Hackathons (Bronze → Platinum)
-- [x] Build cloud-native system with Kubernetes, Kafka, and Dapr
-- [x] Implement Constitutional AI safety with Human-in-the-Loop
+- [x] Complete all 6 Panaversity Hackathons (Bronze → Platinum) ✅
+- [x] Build cloud-native system with Kubernetes, Kafka, and Dapr ✅
+- [x] Implement Constitutional AI safety with Human-in-the-Loop ✅
+- [x] Build event-driven architecture with Apache Kafka & Dapr ✅
+- [x] Deploy 14 services in Kubernetes with CI/CD pipeline ✅
+- [x] Build Discord bot (TodoMaster AI) with K8s deployment ✅
+- [ ] Build Digital Agent Factory with MCP, A2A & Agent SDKs
 - [ ] Build multi-agent system with MCP and A2A protocols
 - [ ] Contribute to 3+ open-source AI/ML projects
 - [ ] Publish 24+ technical articles and videos
 - [ ] Launch course on Specification-Driven AI Development
 - [ ] Grow YouTube channel to 1K+ subscribers
+- [ ] Build and ship production Digital FTEs (AI employees)
 
 ---
 
@@ -285,12 +321,15 @@ mindmap
 > *My approach: **Learn FROM AI mistakes.***
 > *Because real innovation happens at the edges of failure."*
 
+> *"We don't just teach people how to code; we are teaching them how to build and monetize Digital Agent Factories."*
+
 | Principle | Practice |
 |-----------|----------|
 | **Spec-First** | No code without a specification |
 | **Production Quality** | Every project is deployment-ready |
 | **AI as Collaborator** | Not just a tool — a thinking partner |
 | **Open Source** | Share knowledge, elevate the community |
+| **Agent Factory Mindset** | From manual coding to spec-driven automation |
 
 ---
 
@@ -303,7 +342,7 @@ mindmap
 
 </div>
 
-**Topics:** Agentic AI | Spec-Driven Development | Cloud-Native Architecture | Constitutional AI Safety | Multi-Agent Systems
+**Topics:** Agentic AI | Agent Factory & Digital FTEs | Spec-Driven Development | Cloud-Native Architecture | Constitutional AI Safety | Multi-Agent Systems | MCP & A2A Protocols
 
 ---
 
@@ -311,7 +350,7 @@ mindmap
 
 ### Let's build something together
 
-I'm open to collaborating on **AI/ML projects**, **cloud-native systems**, and **hackathon partnerships**.
+I'm open to collaborating on **AI/ML projects**, **cloud-native systems**, **Agent Factory development**, and **hackathon partnerships**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
