@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d2847,100:1f6feb&height=320&section=header&text=Asadullah%20Shafique&fontSize=72&fontColor=e6edf3&animation=fadeIn&fontAlignY=28&desc=Agentic%20AI%20Developer%20%C2%B7%20Cloud-Native%20Architect%20%C2%B7%20Open%20Source%20Builder&descAlignY=52&descAlign=50&descSize=17&descColor=7d8590&stroke=58a6ff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d2847,100:1f6feb&height=320&section=header&text=Asadullah%20Shafique&fontSize=72&fontColor=e6edf3&animation=fadeIn&fontAlignY=28&desc=Agentic%20AI%20Developer%20%C2%B7%20CMT%20Industry%20Founder%20%C2%B7%20Digital%20Marketing%20Strategist&descAlignY=52&descAlign=50&descSize=17&descColor=7d8590&stroke=58a6ff&strokeWidth=1)
 
 <div align="center">
 
@@ -199,6 +199,24 @@ graph TD
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header" width="100%" />
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🏭 &nbsp;Founder — Texcot Embroidery Sourcing House
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+> Built and deployed a production SaaS (**CMT Stitching System**) for the garment industry — because I run one. Order management, billing, inventory, dispatch, and financial tracking. **The only CMT software built by a CMT owner.**
+
+<br/>
+
+<a href="https://cmt-stitching-asadullah-shafiques-projects.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header" width="100%" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="26"> &nbsp;Other Projects
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -262,6 +280,20 @@ const techStack = {
 ```
 
 </details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header" width="100%" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🌐 &nbsp;Domain Expertise
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+**Textile & CMT Manufacturing** · **Dubai Real Estate Marketing** · **Digital Marketing Strategy** · **E-Commerce Growth** · **Digital FTE Productization**
+
+</div>
 
 <br/>
 
