@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+AI+that+doesn%E2%80%99t+just+respond+%E2%80%94+it+acts.;MCP+%7C+LangGraph+%7C+Constitutional+AI+%7C+Kubernetes;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Spec-First+Development+%7C+Production+Quality&font=JetBrains+Mono&size=18&duration=3200&pause=1400&color=58a6ff&center=true&vCenter=true&width=680&height=70&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;Building+AI+that+doesn%E2%80%99t+just+respond+%E2%80%94+it+acts.;MCP+%7C+LangGraph+%7C+Constitutional+AI+%7C+Kubernetes;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Spec-First+Development+%7C+Production+Quality&font=JetBrains+Mono&size=18&duration=3200&pause=1400&color=58a6ff&center=true&vCenter=true&width=680&height=70&repeat=true)](https://git.io/typing-svg)
 
 <br/>
 
@@ -216,6 +216,49 @@ graph TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header" width="100%" />
 
+---
+
+## 🚀 Latest Ship — Textile ERP Platform
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/Live-frontend--three--kappa--64.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-three-kappa-64.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-textile--erp--platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadullah48/textile-erp-platform)
+[![Backend](https://img.shields.io/badge/Backend-Koyeb-6B47ED?style=for-the-badge&logo=koyeb&logoColor=white)]()
+[![DB](https://img.shields.io/badge/Database-Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Tests-Tenancy_Isolation_✅-brightgreen?style=for-the-badge)]()
+
+</div>
+
+A **production-deployed, multi-tenant SaaS** for Fabric Mill inventory management — built spec-first across one session from zero to live in under 4 hours.
+
+```yaml
+Architecture : Multi-Tenant SaaS with PostgreSQL Row Level Security
+Backend      : FastAPI + asyncpg + Alembic (19 API routes)
+Frontend     : Next.js 15 + shadcn v4 + TypeScript strict
+Auth         : JWT with tenant-scoped sessions
+Infra        : Koyeb (backend) · Vercel (frontend) · Neon (DB)
+Safety       : RLS enforced at DB level — tenants cannot see each other's data
+Tests        : Tenancy isolation suite (two-tenant cross-contamination checks)
+Deployed     : ✅ Live in production
+```
+
+<details>
+<summary><b>What it does</b></summary>
+
+| Feature | Detail |
+|---------|--------|
+| **Multi-Tenancy** | Row Level Security on every table — one DB, zero data leaks |
+| **Fabric Lot Management** | Create, track, and manage fabric lots with full CRUD |
+| **Roll Tracking** | Nested fabric rolls per lot — length, weight, status, location |
+| **Dashboard Analytics** | Live stat cards: total lots, meters available vs. reserved |
+| **Tenant Registration** | Self-serve onboarding — company name → isolated workspace in seconds |
+| **Docker Compose** | Full local stack (Postgres + FastAPI + Next.js) with one command |
+
+</details>
+
+---
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="26"> &nbsp;Other Projects
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -224,6 +267,7 @@ graph TD
 
 | &nbsp; | Project | Stack | Description |
 |:------:|:--------|:------|:------------|
+| **00** | **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI · Next.js 15 · PostgreSQL RLS · Koyeb · Vercel | Production multi-tenant SaaS — fabric lot/roll management with JWT auth, Row Level Security, and live deployment |
 | **01** | **Physical AI Textbook Platform** | Next.js · FastAPI · RAG · Gemini | Interactive textbook with semantic search and context-aware RAG chatbot |
 | **02** | **LearnFlow AI Platform** | Microservices · FastAPI · K8s · Docker | 5 specialized AI agents for personalized programming education |
 | **03** | **Course Companion FTE** | FastAPI · ChatGPT API · Zero-Backend | Constitutional AI rules for LLM-based course management |
@@ -263,10 +307,11 @@ graph TD
 ```javascript
 const techStack = {
     languages      : ["Python", "TypeScript", "JavaScript"],
-    frontend       : ["Next.js 14", "React", "Tailwind CSS"],
+    frontend       : ["Next.js 15", "React", "Tailwind CSS"],
     backend        : ["FastAPI", "Node.js", "Uvicorn"],
     ai_ml          : ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP"],
-    databases      : ["PostgreSQL 15", "Redis 7", "Pinecone", "Chroma"],
+    databases      : ["PostgreSQL 15", "Redis 7", "Pinecone", "Chroma", "Neon (serverless Postgres)"],
+    deployment     : ["Vercel (frontend)", "Koyeb (backend)", "Neon (database)"],
     infrastructure : ["Kubernetes", "Docker", "Dapr", "Helm"],
     streaming      : ["Apache Kafka (Strimzi KRaft)"],
     monitoring     : ["Prometheus", "Grafana", "OpenTelemetry"],
@@ -406,6 +451,8 @@ mindmap
 &ensp;&ensp;✅&ensp;Build cloud-native system with K8s, Kafka, and Dapr
 <br/>
 &ensp;&ensp;✅&ensp;Implement Constitutional AI safety with HITL
+<br/>
+&ensp;&ensp;✅&ensp;Ship production multi-tenant SaaS (Textile ERP Platform — live on Koyeb + Vercel)
 
 </td>
 <td width="50%" valign="top">
