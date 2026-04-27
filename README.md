@@ -2,8 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Platinum;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+%26+CMT+Stitching+%F0%9F%9A%80+Both+Live+in+Production;DevUnity+Platform+%F0%9F%9B%A0%EF%B8%8F+Open-Source+Dev+Community+%7C+Live+Now;E-Marketing+%7C+Dubai+Construction+%26+Import%2FExport+%F0%9F%87%A6%F0%9F%87%AA;Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Platinum;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@asadullahshafique4261)
@@ -199,16 +200,127 @@ Deployed     : ✅ Live in production
 
 ---
 
+## 🚀 Live Projects
+
+### 🏭 Textile ERP Platform — Multi-Tenant Fabric Mill SaaS
+
+<div align="center">
+
+[![Live App](https://img.shields.io/badge/Live-Textile_ERP_Platform-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-three-kappa-64.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-textile--erp--platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadullah48/textile-erp-platform)
+[![Backend](https://img.shields.io/badge/Backend-Koyeb-6B47ED?style=for-the-badge&logo=koyeb&logoColor=white)]()
+[![DB](https://img.shields.io/badge/DB-Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Tenancy_Isolation-Tests_✅-brightgreen?style=for-the-badge)]()
+
+</div>
+
+Production **multi-tenant SaaS** for Fabric Mill inventory — built spec-first, zero to live in one session.
+
+```yaml
+Architecture : Multi-Tenant SaaS · PostgreSQL Row Level Security
+Backend      : FastAPI + asyncpg + Alembic · 19 API routes
+Frontend     : Next.js 15 + shadcn v4 + TypeScript strict
+Auth         : JWT with tenant-scoped DB sessions
+Infra        : Koyeb (backend) · Vercel (frontend) · Neon (DB)
+Key Feature  : RLS enforced at DB level — tenants are cryptographically isolated
+Tests        : Two-tenant cross-contamination isolation suite ✅
+```
+
+<details>
+<summary><b>Feature breakdown</b></summary>
+
+| Feature | Detail |
+|---------|--------|
+| **Multi-Tenancy** | Row Level Security on every table — one DB, zero data leaks |
+| **Fabric Lot Management** | Full CRUD — fabric type, color, GSM, supplier, status |
+| **Roll Tracking** | Nested rolls per lot — length, weight, status, location |
+| **Dashboard Analytics** | Stat cards: total lots, meters available vs. reserved |
+| **Self-Serve Onboarding** | Company name → isolated workspace in seconds |
+| **Docker Compose** | Full local stack with one command |
+
+</details>
+
+---
+
+### 🧵 CMT Stitching System — Garment Production Management
+
+<div align="center">
+
+[![Live App](https://img.shields.io/badge/Live-CMT_Stitching_System-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cmt-stitching-asadullah-shafiques-projects.vercel.app)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_%7C_TypeScript-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![Industry](https://img.shields.io/badge/Industry-Garment_%26_Textile-ff6b35?style=for-the-badge)]()
+
+</div>
+
+A **garment production tracking system** for CMT (Cut, Make & Trim) operations — managing stitching orders, packing, and production workflows for the textile manufacturing industry.
+
+```yaml
+Use Case  : CMT Stitching & Packing Management for garment factories
+Stack     : Next.js · TypeScript
+Live      : ✅ Deployed on Vercel
+Domain    : Textile & Garment Manufacturing
+```
+
+---
+
+### 🌐 Dubai E-Marketing & Business Services
+
+<div align="center">
+
+[![Services](https://img.shields.io/badge/Services-E--Marketing_%7C_Dubai-gold?style=for-the-badge&logo=google&logoColor=white)]()
+[![Industry](https://img.shields.io/badge/Industry-Construction_%7C_Trading_%7C_Import%2FExport-1E3A5F?style=for-the-badge)]()
+[![Region](https://img.shields.io/badge/Region-UAE_%7C_Dubai_%F0%9F%87%A6%F0%9F%87%AA-green?style=for-the-badge)]()
+
+</div>
+
+Beyond software, I provide **digital marketing and e-marketing solutions** for Dubai-based businesses across construction, trading, and import/export sectors.
+
+| Service | Description |
+|---------|-------------|
+| **E-Marketing Strategy** | Digital presence, SEO, and online lead generation for UAE markets |
+| **Construction Sector** | Marketing for contractors, fit-out companies, and building material suppliers |
+| **Trading & Import/Export** | Online brand building for commodity traders and international sourcing agents |
+| **AI-Powered Automation** | Automated marketing workflows using AI agents — from content to outreach |
+| **Product Sourcing** | Textile and garment sourcing with production management systems |
+
+> 📧 **For business inquiries:** [texcotembroiderysourcinghouse@gmail.com](mailto:texcotembroiderysourcinghouse@gmail.com)
+> 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/asadullah-shafique-a00679325) · [Linktree](https://linktr.ee/asadullahshafique)
+
+---
+
+### 🛠️ DevUnity Platform — Open-Source Developer Community
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique--devunity.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
+[![DevUnity](https://img.shields.io/badge/DevUnity-Open--Source_Dev_Community-6366F1?style=for-the-badge&logo=dev.to&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_15_%7C_TypeScript_%7C_shadcn-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+
+</div>
+
+My **personal portfolio and developer platform** — showcasing AI projects, digital marketing services, and the open-source **DevUnity** community platform (Q&A, blogs, collaboration for developers).
+
+```yaml
+Site         : Portfolio + DevUnity community platform
+Stack        : Next.js 15 · TypeScript · Tailwind · shadcn/ui · Framer Motion
+Features     : Q&A forum · Technical blogs · Developer collaboration
+Also covers  : AI services · Digital marketing for UAE/Pakistan · Textile ERP waitlist
+Deployed     : ✅ Live on Vercel
+```
+
+---
+
 ## Other Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI, Next.js 15, PostgreSQL RLS, Koyeb, Vercel | Production multi-tenant SaaS — fabric lot/roll management with JWT auth, Row Level Security, and live deployment |
+| **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI, Next.js 15, PostgreSQL RLS, Koyeb, Vercel | Production multi-tenant SaaS — fabric lot/roll management with Row Level Security, 19 API routes, live deployment |
+| **[CMT Stitching System](https://cmt-stitching-asadullah-shafiques-projects.vercel.app)** | TypeScript, Next.js | Garment CMT production & packing management — live on Vercel |
+| **[DevUnity Platform](https://asadullahshafique-devunity.vercel.app)** | Next.js 15, TypeScript, shadcn/ui, Framer Motion | Open-source developer community platform with Q&A, blogs, and collaboration — personal portfolio + DevUnity |
 | **Physical AI Textbook Platform** | Next.js, FastAPI, RAG, Gemini API | Interactive textbook with semantic search and context-aware RAG chatbot |
 | **LearnFlow AI Platform** | Microservices, FastAPI, K8s, Docker | 5 specialized AI agents for personalized programming education |
 | **Course Companion FTE** | FastAPI, ChatGPT API, Zero-Backend | Constitutional AI rules for LLM-based course management |
 | **Claude.ai Skills Marketplace** | 39 Skills, 8 Categories | Reusable agent skills — document processing, automation, dev tools |
-| **CMT Stitching System** | TypeScript, Next.js | CMT Stitching & Packing Management System |
 | **RepoToVideo** | Python, AI | Turn any GitHub repository into a viral promo video with AI |
 | **Mathematics for AI** | Python, Educational | Comprehensive repository covering mathematical foundations of AI |
 
@@ -253,6 +365,7 @@ const stack = {
   apis: ["OpenAI", "Claude (Anthropic)", "Google Gemini"],
   protocols: ["MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "REST", "Dapr Pub/Sub"],
   architecture: ["Microservices", "Event-Driven", "API-First", "Infrastructure-Agnostic"],
+  domains: ["Textile & Garment Manufacturing", "Dubai Construction & Trading", "Import/Export", "Multi-Tenant SaaS"],
   methodology: "Specification-First Development",
   nextPhase: "Digital Agent Factory Builder"
 };
@@ -350,7 +463,9 @@ mindmap
 - [x] Build event-driven architecture with Apache Kafka & Dapr ✅
 - [x] Deploy 14 services in Kubernetes with CI/CD pipeline ✅
 - [x] Build Discord bot (TodoMaster AI) with K8s deployment ✅
-- [x] Ship production multi-tenant SaaS (Textile ERP Platform — live on Koyeb + Vercel) ✅
+- [x] Ship production multi-tenant SaaS — Textile ERP Platform (live: Koyeb + Vercel) ✅
+- [x] Ship CMT Stitching & Packing Management System (live on Vercel) ✅
+- [x] Deliver AI-powered e-marketing solutions for Dubai construction & trading sector ✅
 - [ ] Build Digital Agent Factory with MCP, A2A & Agent SDKs
 - [ ] Build multi-agent system with MCP and A2A protocols
 - [ ] Contribute to 3+ open-source AI/ML projects
@@ -396,8 +511,9 @@ mindmap
 
 ### Let's build something together
 
-I'm open to collaborating on **AI/ML projects**, **cloud-native systems**, **Agent Factory development**, and **hackathon partnerships**.
+I'm open to collaborating on **AI/ML projects**, **cloud-native systems**, **Agent Factory development**, **hackathon partnerships**, **open-source dev communities** (DevUnity), and **e-marketing automation for UAE/Dubai businesses** (construction · trading · import/export).
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique-FF6B35?style=flat-square&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@asadullahshafique4261)
