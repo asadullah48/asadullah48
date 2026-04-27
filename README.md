@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Platinum;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Platinum;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
@@ -156,10 +156,54 @@ graph TD
 
 ---
 
+---
+
+## 🚀 Latest Ship — Textile ERP Platform
+
+<div align="center">
+
+[![Live](https://img.shields.io/badge/Live-frontend--three--kappa--64.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-three-kappa-64.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-textile--erp--platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadullah48/textile-erp-platform)
+[![Backend](https://img.shields.io/badge/Backend-Koyeb-6B47ED?style=for-the-badge&logo=koyeb&logoColor=white)]()
+[![DB](https://img.shields.io/badge/Database-Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Tests-Tenancy_Isolation_✅-brightgreen?style=for-the-badge)]()
+
+</div>
+
+A **production-deployed, multi-tenant SaaS** for Fabric Mill inventory management — built spec-first across one session from zero to live in under 4 hours.
+
+```yaml
+Architecture : Multi-Tenant SaaS with PostgreSQL Row Level Security
+Backend      : FastAPI + asyncpg + Alembic (19 API routes)
+Frontend     : Next.js 15 + shadcn v4 + TypeScript strict
+Auth         : JWT with tenant-scoped sessions
+Infra        : Koyeb (backend) · Vercel (frontend) · Neon (DB)
+Safety       : RLS enforced at DB level — tenants cannot see each other's data
+Tests        : Tenancy isolation suite (two-tenant cross-contamination checks)
+Deployed     : ✅ Live in production
+```
+
+<details>
+<summary><b>What it does</b></summary>
+
+| Feature | Detail |
+|---------|--------|
+| **Multi-Tenancy** | Row Level Security on every table — one DB, zero data leaks |
+| **Fabric Lot Management** | Create, track, and manage fabric lots with full CRUD |
+| **Roll Tracking** | Nested fabric rolls per lot — length, weight, status, location |
+| **Dashboard Analytics** | Live stat cards: total lots, meters available vs. reserved |
+| **Tenant Registration** | Self-serve onboarding — company name → isolated workspace in seconds |
+| **Docker Compose** | Full local stack (Postgres + FastAPI + Next.js) with one command |
+
+</details>
+
+---
+
 ## Other Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI, Next.js 15, PostgreSQL RLS, Koyeb, Vercel | Production multi-tenant SaaS — fabric lot/roll management with JWT auth, Row Level Security, and live deployment |
 | **Physical AI Textbook Platform** | Next.js, FastAPI, RAG, Gemini API | Interactive textbook with semantic search and context-aware RAG chatbot |
 | **LearnFlow AI Platform** | Microservices, FastAPI, K8s, Docker | 5 specialized AI agents for personalized programming education |
 | **Course Companion FTE** | FastAPI, ChatGPT API, Zero-Backend | Constitutional AI rules for LLM-based course management |
@@ -194,12 +238,13 @@ graph TD
 ```javascript
 const stack = {
   languages: ["Python", "TypeScript", "JavaScript"],
-  frontend: ["Next.js 14", "React", "Tailwind CSS"],
+  frontend: ["Next.js 15", "React", "Tailwind CSS"],
   backend: ["FastAPI", "Node.js", "Uvicorn"],
   ai: ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP", "A2A"],
   agentSDKs: ["Claude Agent SDK", "OpenAI Agents SDK", "Google ADK"],
   agentFrameworks: ["LangGraph", "CrewAI", "AutoGen", "OpenAI Swarm"],
-  databases: ["PostgreSQL 15", "Redis 7", "Vector DBs (Pinecone, Chroma, Qdrant, Weaviate)"],
+  databases: ["PostgreSQL 15", "Redis 7", "Neon (serverless Postgres)", "Vector DBs (Pinecone, Chroma, Qdrant, Weaviate)"],
+  deployment: ["Vercel (frontend)", "Koyeb (backend)", "Neon (database)"],
   infrastructure: ["Kubernetes", "Docker", "Dapr", "Helm"],
   streaming: ["Apache Kafka (Strimzi KRaft)"],
   monitoring: ["Prometheus", "Grafana", "OpenTelemetry"],
@@ -305,6 +350,7 @@ mindmap
 - [x] Build event-driven architecture with Apache Kafka & Dapr ✅
 - [x] Deploy 14 services in Kubernetes with CI/CD pipeline ✅
 - [x] Build Discord bot (TodoMaster AI) with K8s deployment ✅
+- [x] Ship production multi-tenant SaaS (Textile ERP Platform — live on Koyeb + Vercel) ✅
 - [ ] Build Digital Agent Factory with MCP, A2A & Agent SDKs
 - [ ] Build multi-agent system with MCP and A2A protocols
 - [ ] Contribute to 3+ open-source AI/ML projects
