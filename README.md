@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Asadullah%20Shafique&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Agentic%20AI%20Developer%20%7C%20Cloud-Native%20Engineer%20%7C%20Agent%20Factory%20Builder&descAlignY=52&descAlign=50&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Asadullah%20Shafique&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Agentic%20AI%20Developer%20%7C%20Full-Stack%20SaaS%20Builder%20%7C%20Digital%20Marketing%20Strategist%20%7C%20Agent%20Factory%20Builder&descAlignY=52&descAlign=50&descSize=18)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+%26+CMT+Stitching+%F0%9F%9A%80+Both+Live+in+Production;DevUnity+Platform+%F0%9F%9B%A0%EF%B8%8F+Open-Source+Dev+Community+%7C+Live+Now;E-Marketing+%7C+Dubai+Construction+%26+Import%2FExport+%F0%9F%87%A6%F0%9F%87%AA;Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Platinum;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+%26+CMT+Stitching+%F0%9F%9A%80+Both+Live+in+Production;DevUnity+Platform+%F0%9F%9B%A0%EF%B8%8F+Open-Source+Dev+Community+%7C+Live+Now;E-Marketing+%7C+Dubai+Construction+%26+Import%2FExport+%F0%9F%87%A6%F0%9F%87%AA;85%25+Code+Reuse+%7C+Zero+Failures+%7C+6+Hackathons;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Agent+Factory;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
@@ -17,20 +17,24 @@
 
 ## About Me
 
-I'm an **Agentic AI Developer** at Panaversity building autonomous AI systems that take action, not just respond. I have **completed all 6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot.
+I'm an **Agentic AI Developer**, **Full-Stack SaaS Builder**, and **Digital Marketing Strategist** at Panaversity — building autonomous AI systems that take action, not just respond. Founder of **Texcot Embroidery Sourcing House** and creator of the **Textile ERP Platform** targeting Pakistan's full textile value chain. I have **completed all 6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot.
 
-Now I'm entering the next phase: **building Digital Agent Factories** — turning AI protocols (MCP, A2A, Agent SDKs) into production-ready digital employees (FTEs) using spec-driven automation.
+Now entering the next phase: **building Digital Agent Factories** — turning AI protocols (MCP, A2A, Agent SDKs) into production-ready digital employees (FTEs) using spec-driven automation.
 
 <table>
 <tr>
 <td width="50%">
 
 ```yaml
-Hackathons Completed : 6/6 ✅ (Bronze → Platinum)
+Hackathons Completed : 6/6 ✅ (Bronze → Agent Factory)
+Code Reuse           : 85% across all 6 hackathons
+Failed Runs          : 0
 Kubernetes Services  : 14 running in 6GB cluster
 Tests Passing        : 180+
 Architecture         : Event-Driven + Constitutional AI
 Methodology          : Specification-First Development
+Businesses           : Texcot Embroidery + Textile ERP Platform
+Markets              : Pakistan · UAE · Dubai
 Current Phase        : Agent Factory & Digital FTEs
 ```
 
@@ -74,7 +78,7 @@ The shift from **developer-as-typist** to **developer-as-orchestrator** is here.
 <div align="center">
 
 [![H4](https://img.shields.io/badge/H4-Platinum_Tier-blue?style=flat-square)]()
-[![H4.5](https://img.shields.io/badge/H4.5-Discord_Bot-5865F2?style=flat-square)]()
+[![H5](https://img.shields.io/badge/H5-Agent_Factory-9CE630?style=flat-square)]()
 [![All Complete](https://img.shields.io/badge/All_Hackathons-Complete_✅-brightgreen?style=flat-square)]()
 [![Tests](https://img.shields.io/badge/Tests-180%2B_Passing-brightgreen?style=flat-square)]()
 [![K8s](https://img.shields.io/badge/K8s-14_Services-orange?style=flat-square)]()
@@ -142,7 +146,7 @@ graph TD
 </details>
 
 <details>
-<summary><b>Hackathon Progression — All Complete ✅ (Bronze → Platinum)</b></summary>
+<summary><b>Hackathon Progression — All Complete ✅ (Bronze → Agent Factory)</b></summary>
 
 | Hackathon | Project | Tier | What I Built | Tests |
 |-----------|---------|------|-------------|-------|
@@ -151,11 +155,26 @@ graph TD
 | **H2** ✅ | AI-Powered Todo | `Silver` | Spec-driven development, AI spec generation, CRUD with constitution | - |
 | **H3** ✅ | Advanced Todo | `Gold` | Event-driven architecture, Kafka, Dapr, team collaboration | 149/149 |
 | **H4** ✅ | Cloud-Native | `Platinum` | Full Kubernetes cluster (14 manifests), CI/CD, Prometheus | - |
-| **H4.5** ✅ | Discord Bot | `Extended` | TodoMaster AI with 6 slash commands, K8s deployment | 31/31 |
+| **H5** ✅ | Agent Factory | `Agent Factory` | TodoMaster AI Discord bot, K8s deployment, spec-driven agents | 31/31 |
+
+**85% code reusability across all 6 hackathons. Zero failures.**
 
 </details>
 
 ---
+
+## 🔧 Engineering Expertise
+
+Production-ready command across backend engineering, infrastructure, cloud, and AI — sharpened through 6 hackathons and live deployments.
+
+| Domain | Expertise |
+|--------|-----------|
+| **Python** | Core Syntax & Data Structures · OOP & Design Patterns · Async/Await & Concurrency · Type Hints & Decorators · Testing & Debugging · FastAPI Integration |
+| **Docker & Containerization** | Docker Architecture · Images & Container Lifecycle · Dockerizing Node.js Apps · Port Mapping & Networking · Docker Compose · Docker Networking · Persistent Volumes |
+| **Redis & Caching** | Redis Data Structures · API Response Caching · Rate Limiting · Message Queue with Redis Pub/Sub |
+| **System Design & Scalability** | System Design Principles · Horizontal & Vertical Scaling · Nginx (Reverse Proxy & Load Balancer) · Microservices Architecture · DB Replication & Sharding |
+| **CI/CD & Cloud Infrastructure** | CI/CD Pipeline Design · AWS Deployment & Services · Infrastructure as Code (IaC) |
+| **AI Integration in Backend** | LLM APIs & Prompt Engineering · LangChain Framework · Retrieval-Augmented Generation (RAG) · Vector Databases (Pinecone, Weaviate, Milvus) |
 
 ---
 
@@ -258,7 +277,7 @@ A **garment production tracking system** for CMT (Cut, Make & Trim) operations �
 Use Case  : CMT Stitching & Packing Management for garment factories
 Stack     : Next.js · TypeScript
 Live      : ✅ Deployed on Vercel
-Domain    : Textile & Garment Manufacturing
+Domain    : Textile & Garment Manufacturing (Pakistan · UAE)
 ```
 
 ---
@@ -273,13 +292,14 @@ Domain    : Textile & Garment Manufacturing
 
 </div>
 
-Beyond software, I provide **digital marketing and e-marketing solutions** for Dubai-based businesses across construction, trading, and import/export sectors.
+Beyond software, I provide **digital marketing and e-marketing solutions** for Dubai-based businesses across construction, trading, and import/export sectors — and for Pakistani SMEs entering the digital economy.
 
 | Service | Description |
 |---------|-------------|
 | **E-Marketing Strategy** | Digital presence, SEO, and online lead generation for UAE markets |
 | **Construction Sector** | Marketing for contractors, fit-out companies, and building material suppliers |
 | **Trading & Import/Export** | Online brand building for commodity traders and international sourcing agents |
+| **Pakistani SMEs** | AI tools, digital marketing, and SaaS solutions for Pakistani factories and businesses entering the digital economy |
 | **AI-Powered Automation** | Automated marketing workflows using AI agents — from content to outreach |
 | **Product Sourcing** | Textile and garment sourcing with production management systems |
 
@@ -350,13 +370,13 @@ Deployed     : ✅ Live on Vercel
 ```javascript
 const stack = {
   languages: ["Python", "TypeScript", "JavaScript"],
-  frontend: ["Next.js 15", "React", "Tailwind CSS"],
+  frontend: ["Next.js 15", "React", "Tailwind CSS", "shadcn/ui", "Framer Motion"],
   backend: ["FastAPI", "Node.js", "Uvicorn"],
   ai: ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP", "A2A"],
   agentSDKs: ["Claude Agent SDK", "OpenAI Agents SDK", "Google ADK"],
   agentFrameworks: ["LangGraph", "CrewAI", "AutoGen", "OpenAI Swarm"],
   databases: ["PostgreSQL 15", "Redis 7", "Neon (serverless Postgres)", "Vector DBs (Pinecone, Chroma, Qdrant, Weaviate)"],
-  deployment: ["Vercel (frontend)", "Koyeb (backend)", "Neon (database)"],
+  deployment: ["Vercel (frontend)", "Koyeb (backend)", "Render (APIs)", "Neon (database)"],
   infrastructure: ["Kubernetes", "Docker", "Dapr", "Helm"],
   streaming: ["Apache Kafka (Strimzi KRaft)"],
   monitoring: ["Prometheus", "Grafana", "OpenTelemetry"],
@@ -375,7 +395,7 @@ const stack = {
 
 ---
 
-## 2026 Technology Roadmap
+## 2026 Focus Areas
 
 <div align="center">
 
@@ -457,7 +477,7 @@ mindmap
 
 ## Goals
 
-- [x] Complete all 6 Panaversity Hackathons (Bronze → Platinum) ✅
+- [x] Complete all 6 Panaversity Hackathons (Bronze → Agent Factory) ✅
 - [x] Build cloud-native system with Kubernetes, Kafka, and Dapr ✅
 - [x] Implement Constitutional AI safety with Human-in-the-Loop ✅
 - [x] Build event-driven architecture with Apache Kafka & Dapr ✅
@@ -466,6 +486,7 @@ mindmap
 - [x] Ship production multi-tenant SaaS — Textile ERP Platform (live: Koyeb + Vercel) ✅
 - [x] Ship CMT Stitching & Packing Management System (live on Vercel) ✅
 - [x] Deliver AI-powered e-marketing solutions for Dubai construction & trading sector ✅
+- [x] Found Texcot Embroidery Sourcing House (Pakistan · UAE textile industry) ✅
 - [ ] Build Digital Agent Factory with MCP, A2A & Agent SDKs
 - [ ] Build multi-agent system with MCP and A2A protocols
 - [ ] Contribute to 3+ open-source AI/ML projects
@@ -488,6 +509,7 @@ mindmap
 |-----------|----------|
 | **Spec-First** | No code without a specification |
 | **Production Quality** | Every project is deployment-ready |
+| **Zero Failures** | 85% code reuse · 6 hackathons · 0 failed attempts |
 | **AI as Collaborator** | Not just a tool — a thinking partner |
 | **Open Source** | Share knowledge, elevate the community |
 | **Agent Factory Mindset** | From manual coding to spec-driven automation |
@@ -511,7 +533,7 @@ mindmap
 
 ### Let's build something together
 
-I'm open to collaborating on **AI/ML projects**, **cloud-native systems**, **Agent Factory development**, **hackathon partnerships**, **open-source dev communities** (DevUnity), and **e-marketing automation for UAE/Dubai businesses** (construction · trading · import/export).
+I'm open to collaborating on **AI/ML projects**, **cloud-native systems**, **Agent Factory development**, **hackathon partnerships**, **open-source dev communities** (DevUnity), and **e-marketing automation for UAE/Dubai businesses** (construction · trading · import/export) and **Pakistani SMEs**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique-FF6B35?style=flat-square&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
