@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+%26+CMT+Stitching+%F0%9F%9A%80+Both+Live+in+Production;DevUnity+Platform+%F0%9F%9B%A0%EF%B8%8F+Open-Source+Dev+Community+%7C+Live+Now;E-Marketing+%7C+Dubai+Construction+%26+Import%2FExport+%F0%9F%87%A6%F0%9F%87%AA;85%25+Code+Reuse+%7C+Zero+Failures+%7C+6+Hackathons;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Agent+Factory;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Agentic+OS+Portfolio+%F0%9F%9A%80+Live+on+Vercel;Agent+Engineering%3A+Harness+%C3%97+Loop+%C3%97+Graph;Shipped%3A+Textile+ERP+%26+CMT+Stitching+%F0%9F%9A%80+Both+Live+in+Production;E-Marketing+%7C+Dubai+Construction+%26+Import%2FExport+%F0%9F%87%A6%F0%9F%87%AA;85%25+Code+Reuse+%7C+Zero+Failures+%7C+6+Hackathons;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Agent+Factory;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
@@ -33,6 +33,7 @@ Kubernetes Services  : 14 running in 6GB cluster
 Tests Passing        : 180+
 Architecture         : Event-Driven + Constitutional AI
 Methodology          : Specification-First Development
+Agent Framework      : Harness × Loop × Graph
 Businesses           : Texcot Embroidery + Textile ERP Platform
 Markets              : Pakistan · UAE · Dubai
 Current Phase        : Agent Factory & Digital FTEs
@@ -68,6 +69,18 @@ The shift from **developer-as-typist** to **developer-as-orchestrator** is here.
 | **Agent Protocols** | MCP (Model Context Protocol) & A2A (Agent-to-Agent) for standardized agent communication |
 
 📊 **Reference:** [Agent Factory: Building Digital FTEs — Presentation](https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwfNh8vRjQ/edit?usp=sharing)
+
+---
+
+## 🧭 How I Build Agents — Harness × Loop × Graph
+
+> *A model is not a product. The **harness**, the **loop**, and the **graph** around it are.*
+
+| | Pillar | Discipline | The Principle |
+|:-:|:-------|:-----------|:--------------|
+| `01` | **Harness Engineering** | *The Environment* | Tools, memory, permissions, observability. An agent that forgets what it did five steps ago is a **harness problem**, not a model failure. |
+| `02` | **Loop Engineering** | *The Feedback* | Evidence over confidence. A coding agent stops when the **tests pass** — not when it *feels* done. |
+| `03` | **Graph Engineering** | *The Flow* | Branching, approvals, retries, parallel tasks. One agent is a demo; a **graph with approval gates** is a product. |
 
 ---
 
@@ -308,24 +321,25 @@ Beyond software, I provide **digital marketing and e-marketing solutions** for D
 
 ---
 
-### 🛠️ DevUnity Platform — Open-Source Developer Community
+### 🤖 Agentic OS Portfolio — A Portfolio That Is Itself an Agent System
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique--devunity.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
-[![DevUnity](https://img.shields.io/badge/DevUnity-Open--Source_Dev_Community-6366F1?style=for-the-badge&logo=dev.to&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_15_%7C_TypeScript_%7C_shadcn-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique--devunity.vercel.app-9CE630?style=for-the-badge&logo=vercel&logoColor=black)](https://asadullahshafique-devunity.vercel.app)
+[![AI Chat](https://img.shields.io/badge/AI_Chat-4_Specialist_Modes-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_15_%7C_FastAPI_%7C_SSE-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 
 </div>
 
-My **personal portfolio and developer platform** — showcasing AI projects, digital marketing services, and the open-source **DevUnity** community platform (Q&A, blogs, collaboration for developers).
+My **personal portfolio built as an agentic system** — a multi-mode AI chat agent (Portfolio Guide, Backend Specialist, Frontend Architect, Agent Builder) with streaming SSE, backed by FastAPI on Render, plus the Harness × Loop × Graph agent-engineering showcase.
 
 ```yaml
-Site         : Portfolio + DevUnity community platform
-Stack        : Next.js 15 · TypeScript · Tailwind · shadcn/ui · Framer Motion
-Features     : Q&A forum · Technical blogs · Developer collaboration
-Also covers  : AI services · Digital marketing for UAE/Pakistan · Textile ERP waitlist
-Deployed     : ✅ Live on Vercel
+Site         : Agentic OS Portfolio — asadullahshafique-devunity.vercel.app
+Stack        : Next.js 15 · TypeScript · Framer Motion · FastAPI · Render
+Agent        : 4-mode chat agent · streaming SSE · Discord-webhook contact pipeline
+AI-Ready     : llms.txt · JSON-LD Person schema · dynamic OG image
+Languages    : English + Arabic (full RTL)
+Deployed     : ✅ Live on Vercel (frontend) + Render (backend)
 ```
 
 ---
@@ -336,7 +350,7 @@ Deployed     : ✅ Live on Vercel
 |---------|-------|-------------|
 | **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI, Next.js 15, PostgreSQL RLS, Koyeb, Vercel | Production multi-tenant SaaS — fabric lot/roll management with Row Level Security, 19 API routes, live deployment |
 | **[CMT Stitching System](https://cmt-stitching-asadullah-shafiques-projects.vercel.app)** | TypeScript, Next.js | Garment CMT production & packing management — live on Vercel |
-| **[DevUnity Platform](https://asadullahshafique-devunity.vercel.app)** | Next.js 15, TypeScript, shadcn/ui, Framer Motion | Open-source developer community platform with Q&A, blogs, and collaboration — personal portfolio + DevUnity |
+| **[Agentic OS Portfolio](https://asadullahshafique-devunity.vercel.app)** | Next.js 15, TypeScript, FastAPI, SSE, EN/AR | Portfolio built as an agentic system — 4-mode AI chat agent, harness × loop × graph showcase, llms.txt AI-discoverability |
 | **Physical AI Textbook Platform** | Next.js, FastAPI, RAG, Gemini API | Interactive textbook with semantic search and context-aware RAG chatbot |
 | **LearnFlow AI Platform** | Microservices, FastAPI, K8s, Docker | 5 specialized AI agents for personalized programming education |
 | **Course Companion FTE** | FastAPI, ChatGPT API, Zero-Backend | Constitutional AI rules for LLM-based course management |
