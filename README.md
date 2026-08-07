@@ -2,10 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;Building+AI+that+doesn%E2%80%99t+just+respond+%E2%80%94+it+acts.;MCP+%7C+LangGraph+%7C+Constitutional+AI+%7C+Kubernetes;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Spec-First+Development+%7C+Production+Quality&font=JetBrains+Mono&size=18&duration=3200&pause=1400&color=58a6ff&center=true&vCenter=true&width=680&height=70&repeat=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Agentic+OS+Portfolio+%F0%9F%9A%80+Live+on+Vercel;Agent+Engineering%3A+Harness+%C3%97+Loop+%C3%97+Graph;Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;Building+AI+that+doesn%E2%80%99t+just+respond+%E2%80%94+it+acts.;MCP+%7C+A2A+%7C+Constitutional+AI+%7C+Kubernetes;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Spec-First+Development+%7C+Production+Quality&font=JetBrains+Mono&size=18&duration=3200&pause=1400&color=58a6ff&center=true&vCenter=true&width=680&height=70&repeat=true)](https://git.io/typing-svg)
 
 <br/>
 
+<a href="https://asadullahshafique-devunity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-9CE630?style=for-the-badge&logo=vercel&logoColor=black" /></a>&ensp;
 <a href="https://www.linkedin.com/in/asadullah-shafique-a00679325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&ensp;
 <a href="https://medium.com/@texcotembroiderysourcinghouse"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&ensp;
 <a href="https://youtube.com/@asadullahshafique4261"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&ensp;
@@ -56,6 +57,7 @@ hackathons  : 6/6 completed (Bronze → Platinum)
 k8s_cluster : 14 services · 6GB · 44% memory
 tests       : 180+ passing
 methodology : Specification-First Development
+framework   : Harness × Loop × Graph engineering
 focus       : Multi-Agent Systems (MCP + A2A)
 ```
 
@@ -77,6 +79,28 @@ focus       : Multi-Agent Systems (MCP + A2A)
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1&section=header" width="100%" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🧭 &nbsp;How I Build Agents — Harness × Loop × Graph
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+> A model is not a product. The **harness**, the **loop**, and the **graph** around it are.
+
+<br/>
+
+| | Pillar | Discipline | The Principle |
+|:-:|:-------|:-----------|:--------------|
+| `01` | **Harness Engineering** | *The Environment* | Tools, memory, permissions, observability. An agent that forgets what it did five steps ago is a **harness problem**, not a model failure. |
+| `02` | **Loop Engineering** | *The Feedback* | Evidence over confidence. A coding agent stops when the **tests pass** — not when it *feels* done. |
+| `03` | **Graph Engineering** | *The Flow* | Branching, approvals, retries, parallel tasks. One agent is a demo; a **graph with approval gates** is a product. |
+
+</div>
 
 <br/>
 
@@ -267,7 +291,8 @@ Deployed     : ✅ Live in production
 
 | &nbsp; | Project | Stack | Description |
 |:------:|:--------|:------|:------------|
-| **00** | **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI · Next.js 15 · PostgreSQL RLS · Koyeb · Vercel | Production multi-tenant SaaS — fabric lot/roll management with JWT auth, Row Level Security, and live deployment |
+| **00** | **[Agentic OS Portfolio](https://asadullahshafique-devunity.vercel.app)** | Next.js 15 · FastAPI · Render · SSE · EN/AR | Portfolio built as an agentic system — 4-mode AI chat agent, streaming SSE, llms.txt + JSON-LD AI-discoverability |
+| **01** | **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI · Next.js 15 · PostgreSQL RLS · Koyeb · Vercel | Production multi-tenant SaaS — fabric lot/roll management with JWT auth, Row Level Security, and live deployment |
 | **01** | **Physical AI Textbook Platform** | Next.js · FastAPI · RAG · Gemini | Interactive textbook with semantic search and context-aware RAG chatbot |
 | **02** | **LearnFlow AI Platform** | Microservices · FastAPI · K8s · Docker | 5 specialized AI agents for personalized programming education |
 | **03** | **Course Companion FTE** | FastAPI · ChatGPT API · Zero-Backend | Constitutional AI rules for LLM-based course management |
