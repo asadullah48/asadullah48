@@ -288,9 +288,9 @@ Production-ready command across backend engineering, infrastructure, cloud, and 
 
 [![Live](https://img.shields.io/badge/Live-frontend--three--kappa--64.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-three-kappa-64.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-textile--erp--platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadullah48/textile-erp-platform)
-[![Backend](https://img.shields.io/badge/Backend-Koyeb-6B47ED?style=for-the-badge&logo=koyeb&logoColor=white)]()
-[![DB](https://img.shields.io/badge/Database-Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![Tests](https://img.shields.io/badge/Tests-Tenancy_Isolation_✅-brightgreen?style=for-the-badge)]()
+![Backend](https://img.shields.io/badge/Backend-Koyeb-6B47ED?style=for-the-badge&logo=koyeb&logoColor=white)
+![DB](https://img.shields.io/badge/Database-Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-Tenancy_Isolation_✅-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -333,7 +333,7 @@ Deployed     : ✅ Live in production
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique--devunity.vercel.app-00F2FF?style=for-the-badge&logo=vercel&logoColor=black)](https://asadullahshafique-devunity.vercel.app)
 [![AI Chat](https://img.shields.io/badge/AI_Chat-4_Specialist_Modes-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_15_%7C_FastAPI_%7C_SSE-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+![Stack](https://img.shields.io/badge/Stack-Next.js_15_%7C_FastAPI_%7C_SSE-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
@@ -354,8 +354,8 @@ Deployed     : ✅ Live on Vercel (frontend) + Render (backend)
 <div align="center">
 
 [![Live App](https://img.shields.io/badge/Live-CMT_Stitching_System-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cmt-stitching-asadullah-shafiques-projects.vercel.app)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_%7C_TypeScript-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![Industry](https://img.shields.io/badge/Industry-Garment_%26_Textile-ff6b35?style=for-the-badge)]()
+![Stack](https://img.shields.io/badge/Stack-Next.js_%7C_TypeScript-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Industry](https://img.shields.io/badge/Industry-Garment_%26_Textile-ff6b35?style=for-the-badge)
 
 </div>
 
@@ -373,9 +373,9 @@ Domain    : Textile & Garment Manufacturing (Pakistan · UAE)
 
 <div align="center">
 
-[![Services](https://img.shields.io/badge/Services-E--Marketing_%7C_Dubai-gold?style=for-the-badge&logo=google&logoColor=white)]()
-[![Industry](https://img.shields.io/badge/Industry-Construction_%7C_Trading_%7C_Import%2FExport-1E3A5F?style=for-the-badge)]()
-[![Region](https://img.shields.io/badge/Region-UAE_%7C_Dubai_%F0%9F%87%A6%F0%9F%87%AA-green?style=for-the-badge)]()
+![Services](https://img.shields.io/badge/Services-E--Marketing_%7C_Dubai-gold?style=for-the-badge&logo=google&logoColor=white)
+![Industry](https://img.shields.io/badge/Industry-Construction_%7C_Trading_%7C_Import%2FExport-1E3A5F?style=for-the-badge)
+![Region](https://img.shields.io/badge/Region-UAE_%7C_Dubai_%F0%9F%87%A6%F0%9F%87%AA-green?style=for-the-badge)
 
 </div>
 

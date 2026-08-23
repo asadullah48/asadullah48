@@ -1,0 +1,17 @@
+# Claude Code scratch files. Twelve of these were committed by accident
+# (docs/BASELINE.md §5); without this rule it recurs on every session.
+tmpclaude-*-cwd
+
+# Windows artifact: created when a command redirects to NUL under a POSIX
+# shell that treats it as a filename. "nul" is a reserved device name, so it
+# resists deletion — ignoring it is the practical fix.
+nul
+
+# Local worktrees and machine-local Claude Code state.
+.claude/worktrees/
+.claude/settings.local.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
