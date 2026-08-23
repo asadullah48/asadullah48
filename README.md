@@ -1,61 +1,92 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Asadullah%20Shafique&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Agentic%20AI%20Developer%20%7C%20Full-Stack%20SaaS%20Builder%20%7C%20Digital%20Marketing%20Strategist%20%7C%20Agent%20Factory%20Builder&descAlignY=52&descAlign=50&descSize=18)
+<img src="assets/banner.svg" alt="Asadullah Shafique — Agentic AI Developer · CMT Industry Founder · Digital Marketing Strategist" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Agentic+OS+Portfolio+%F0%9F%9A%80+Live+on+Vercel;Agent+Engineering%3A+Harness+%C3%97+Loop+%C3%97+Graph;Shipped%3A+Textile+ERP+%26+CMT+Stitching+%F0%9F%9A%80+Both+Live+in+Production;E-Marketing+%7C+Dubai+Construction+%26+Import%2FExport+%F0%9F%87%A6%F0%9F%87%AA;85%25+Code+Reuse+%7C+Zero+Failures+%7C+6+Hackathons;All+Hackathons+Complete+%E2%9C%85+Bronze+%E2%86%92+Agent+Factory;Now+Building+Digital+Agent+Factories+%F0%9F%8F%AD;MCP+%7C+A2A+%7C+Claude+Agent+SDK+%7C+OpenAI+Agents+SDK;From+Developer-as-Typist+to+Developer-as-Orchestrator;Spec-First+%7C+14+K8s+Services+%7C+180%2B+Tests&font=Fira+Code&size=22&duration=3500&pause=1200&color=36BCF7FF&center=true&vCenter=true&width=750&height=85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shipped%3A+Agentic+OS+Portfolio+%F0%9F%9A%80+Live+on+Vercel;Agent+Engineering%3A+Harness+%C3%97+Loop+%C3%97+Graph;Shipped%3A+Textile+ERP+Platform+%F0%9F%9A%80+Multi-Tenant+SaaS+Live;Building+AI+that+doesn%E2%80%99t+just+respond+%E2%80%94+it+acts.;MCP+%7C+A2A+%7C+Constitutional+AI+%7C+Kubernetes;6+Hackathons+%7C+14+K8s+Services+%7C+180%2B+Tests;Spec-First+Development+%7C+Production+Quality&font=JetBrains+Mono&size=18&duration=3200&pause=1400&color=58a6ff&center=true&vCenter=true&width=680&height=70&repeat=true)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@asadullahshafique4261)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/asadullahshafique)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asadullah.shafique?mibextid=ZbWKwL)
+<br/>
+
+<a href="https://asadullahshafique-devunity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00F2FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>&ensp;
+<a href="https://www.linkedin.com/in/asadullah-shafique-a00679325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&ensp;
+<a href="https://medium.com/@texcotembroiderysourcinghouse"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>&ensp;
+<a href="https://youtube.com/@asadullahshafique4261"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&ensp;
+<a href="https://linktr.ee/asadullahshafique"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>&ensp;
+<a href="https://www.facebook.com/asadullah.shafique?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
 
+<br/>
+
 ---
 
-## About Me
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Who I Am
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-I'm an **Agentic AI Developer**, **Full-Stack SaaS Builder**, and **Digital Marketing Strategist** at Panaversity — building autonomous AI systems that take action, not just respond. Founder of **Texcot Embroidery Sourcing House** and creator of the **Textile ERP Platform** targeting Pakistan's full textile value chain. I have **completed all 6 progressive hackathons** — evolving a simple file watcher into a full **Kubernetes-orchestrated platform** with Constitutional AI safety, Apache Kafka event streaming, Dapr service mesh, and a Discord bot.
+<div align="center">
 
-Now entering the next phase: **building Digital Agent Factories** — turning AI protocols (MCP, A2A, Agent SDKs) into production-ready digital employees (FTEs) using spec-driven automation.
+> **Agentic AI Developer** at [Panaversity](https://github.com/panaversity) — I build autonomous AI systems that **take action**, not just respond.
+>
+> Completed **6 progressive hackathons** evolving a simple file watcher into a **Kubernetes-orchestrated platform** with Constitutional AI safety, Kafka event streaming, Dapr service mesh, and a Discord bot.
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🏆_Hackathons-6%2F6_Complete-58a6ff?style=flat-square&labelColor=161b22" />&ensp;
+<img src="https://img.shields.io/badge/☸️_K8s_Services-14_Running-38bdf8?style=flat-square&labelColor=161b22" />&ensp;
+<img src="https://img.shields.io/badge/✅_Tests-180%2B_Passing-10b981?style=flat-square&labelColor=161b22" />&ensp;
+<img src="https://img.shields.io/badge/🏗️_Architecture-Event--Driven-f97316?style=flat-square&labelColor=161b22" />&ensp;
+<img src="https://img.shields.io/badge/🛡️_AI_Safety-Constitutional-ef4444?style=flat-square&labelColor=161b22" />
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18"> &nbsp;At a Glance
 
 ```yaml
-Hackathons Completed : 6/6 ✅ (Bronze → Agent Factory)
-Code Reuse           : 85% across all 6 hackathons
-Failed Runs          : 0
-Kubernetes Services  : 14 running in 6GB cluster
-Tests Passing        : 180+
-Architecture         : Event-Driven + Constitutional AI
-Methodology          : Specification-First Development
-Agent Framework      : Harness × Loop × Graph
-Businesses           : Texcot Embroidery + Textile ERP Platform
-Markets              : Pakistan · UAE · Dubai
-Current Phase        : Agent Factory & Digital FTEs
+role        : Agentic AI Developer @ Panaversity
+hackathons  : 6/6 completed (Bronze → Platinum)
+k8s_cluster : 14 services · 6GB · 44% memory
+tests       : 180+ passing
+methodology : Specification-First Development
+framework   : Harness × Loop × Graph engineering
+focus       : Multi-Agent Systems (MCP + A2A)
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Currently Building:**
-- 🏭 **Digital Agent Factories** — AI employees powered by specs, skills & MCP
-- 🤖 Multi-agent systems with **MCP**, **A2A** & **Agent SDKs**
-- 🧠 Production RAG with vector databases
-- ☁️ Platform engineering for AI workloads
-- 🛡️ Open-source AI safety tooling
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"> &nbsp;Currently Building
+
+&nbsp;&nbsp;**`01`**&ensp;Multi-agent systems with **MCP** & **A2A** protocols
+<br/>
+&nbsp;&nbsp;**`02`**&ensp;Production RAG with vector databases
+<br/>
+&nbsp;&nbsp;**`03`**&ensp;Platform engineering for AI workloads
+<br/>
+&nbsp;&nbsp;**`04`**&ensp;Open-source AI safety tooling
+<br/>
+&nbsp;&nbsp;**`05`**&ensp;Technical content on **YouTube** & **Medium**
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🏭 The Agent Factory Vision
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🏭 &nbsp;The Agent Factory Vision
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 > *In the AI era, the most valuable companies won't sell software — they'll manufacture AI employees, powered by agents, specs, skills, MCP, autonomy and cloud-native technologies.*
 
@@ -70,11 +101,19 @@ The shift from **developer-as-typist** to **developer-as-orchestrator** is here.
 
 📊 **Reference:** [Agent Factory: Building Digital FTEs — Presentation](https://docs.google.com/presentation/d/1UGvCUk1-O8m5i-aTWQNxzg8EXoKzPa8fgcwfNh8vRjQ/edit?usp=sharing)
 
+<br/>
+
 ---
 
-## 🧭 How I Build Agents — Harness × Loop × Graph
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🧭 &nbsp;How I Build Agents — Harness × Loop × Graph
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-> *A model is not a product. The **harness**, the **loop**, and the **graph** around it are.*
+<div align="center">
+
+> A model is not a product. The **harness**, the **loop**, and the **graph** around it are.
+
+<br/>
 
 | | Pillar | Discipline | The Principle |
 |:-:|:-------|:-----------|:--------------|
@@ -82,74 +121,100 @@ The shift from **developer-as-typist** to **developer-as-orchestrator** is here.
 | `02` | **Loop Engineering** | *The Feedback* | Evidence over confidence. A coding agent stops when the **tests pass** — not when it *feels* done. |
 | `03` | **Graph Engineering** | *The Flow* | Branching, approvals, retries, parallel tasks. One agent is a demo; a **graph with approval gates** is a product. |
 
+</div>
+
+<br/>
+
 ---
 
-## Flagship Project
-
-### [Hackathon Completion Engine](https://github.com/asadullah48/hackathon-completion-engine)
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="26"> &nbsp;Flagship Project
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-[![H4](https://img.shields.io/badge/H4-Platinum_Tier-blue?style=flat-square)]()
-[![H5](https://img.shields.io/badge/H5-Agent_Factory-9CE630?style=flat-square)]()
-[![All Complete](https://img.shields.io/badge/All_Hackathons-Complete_✅-brightgreen?style=flat-square)]()
-[![Tests](https://img.shields.io/badge/Tests-180%2B_Passing-brightgreen?style=flat-square)]()
-[![K8s](https://img.shields.io/badge/K8s-14_Services-orange?style=flat-square)]()
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square)]()
-[![Constitutional](https://img.shields.io/badge/AI_Safety-Constitutional-ff6b6b?style=flat-square)]()
+<a href="https://github.com/asadullah48/hackathon-completion-engine">
+<img src="https://img.shields.io/badge/HACKATHON_COMPLETION_ENGINE-1f6feb?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/asadullah48/hackathon-completion-engine">
+  <img src="https://img.shields.io/badge/Tier-Platinum-7C3AED?style=flat-square&labelColor=1a1b27" />&ensp;
+  <img src="https://img.shields.io/badge/Discord-Bot-5865F2?style=flat-square&labelColor=1a1b27&logo=discord&logoColor=white" />&ensp;
+  <img src="https://img.shields.io/badge/Tests-180%2B_Passing-10B981?style=flat-square&labelColor=1a1b27" />&ensp;
+  <img src="https://img.shields.io/badge/K8s-14_Services-F97316?style=flat-square&labelColor=1a1b27&logo=kubernetes&logoColor=white" />&ensp;
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&labelColor=1a1b27&logo=githubactions&logoColor=white" />&ensp;
+  <img src="https://img.shields.io/badge/AI_Safety-Constitutional-EF4444?style=flat-square&labelColor=1a1b27" />
+</a>
 
 </div>
 
-A production-grade, Kubernetes-orchestrated AI application built progressively across **all 6 hackathons** (now complete), featuring **Constitutional AI safety**, event-driven microservices, and multi-interface access.
+<br/>
+
+<div align="center">
+
+> A production-grade, Kubernetes-orchestrated AI platform built across **6 progressive hackathons** — featuring Constitutional AI safety, event-driven microservices, and multi-interface access.
+
+</div>
+
+<br/>
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#1f6feb', 'primaryTextColor': '#e6edf3', 'lineColor': '#30363d', 'secondaryColor': '#161b22', 'tertiaryColor': '#0d1117'}}}%%
 graph TD
-    subgraph "User Interfaces"
-        A["Discord Bot<br/>(TodoMaster AI)"]
-        C["Next.js Frontend"]
+    subgraph "🎮 &nbsp;User Interfaces"
+        A["🎮 Discord Bot<br/><sub>TodoMaster AI</sub>"]
+        C["🌐 Next.js Frontend<br/><sub>React Dashboard</sub>"]
     end
-    subgraph "Core Platform"
-        B["FastAPI Backend<br/>(+ Dapr Sidecar)"]
-        I["Constitutional AI<br/>Middleware"]
+
+    subgraph "⚙️ &nbsp;Core Platform"
+        B["⚡ FastAPI Backend<br/><sub>+ Dapr Sidecar</sub>"]
+        I["🛡️ Constitutional AI<br/><sub>Safety Middleware</sub>"]
     end
-    subgraph "Data Layer"
-        D["PostgreSQL 15<br/>(StatefulSet)"]
-        H["Redis 7<br/>(State Store)"]
+
+    subgraph "💾 &nbsp;Data Layer"
+        D["🗄️ PostgreSQL 15<br/><sub>StatefulSet</sub>"]
+        H["📦 Redis 7<br/><sub>State Store</sub>"]
     end
-    subgraph "Event Streaming"
-        E["Apache Kafka<br/>(Strimzi KRaft)"]
-        F["Notification<br/>Service"]
+
+    subgraph "📡 &nbsp;Event Streaming"
+        E["📡 Apache Kafka<br/><sub>Strimzi KRaft</sub>"]
+        F["🔔 Notification<br/><sub>Service</sub>"]
     end
-    subgraph "Observability"
-        G["Prometheus"]
+
+    subgraph "📊 &nbsp;Observability"
+        G["📊 Prometheus<br/><sub>Metrics</sub>"]
     end
-    
+
     A -->|REST API| B
     C -->|REST API| B
-    I -->|Block/Flag/Allow| B
+    I -->|Block · Flag · Allow| B
     B -->|SQL| D
     B -->|State| H
     B -->|Dapr Pub/Sub| E
     E --> F
     G -->|Scrape| B
     G -->|Scrape| F
-    
-    style A fill:#5865F2,color:#fff
-    style C fill:#000000,color:#fff
-    style B fill:#009688,color:#fff
-    style I fill:#ff6b6b,color:#fff
-    style D fill:#336791,color:#fff
-    style H fill:#DC382D,color:#fff
-    style E fill:#231f20,color:#fff
-    style F fill:#4ECDC4,color:#fff
-    style G fill:#e6522c,color:#fff
+
+    style A fill:#5865F2,color:#fff,stroke:#5865F2,stroke-width:2px
+    style C fill:#000000,color:#fff,stroke:#30363d,stroke-width:2px
+    style B fill:#009688,color:#fff,stroke:#009688,stroke-width:2px
+    style I fill:#EF4444,color:#fff,stroke:#EF4444,stroke-width:2px
+    style D fill:#336791,color:#fff,stroke:#336791,stroke-width:2px
+    style H fill:#DC382D,color:#fff,stroke:#DC382D,stroke-width:2px
+    style E fill:#231f20,color:#fff,stroke:#30363d,stroke-width:2px
+    style F fill:#4ECDC4,color:#fff,stroke:#4ECDC4,stroke-width:2px
+    style G fill:#e6522c,color:#fff,stroke:#e6522c,stroke-width:2px
 ```
 
 <details>
-<summary><b>Key Differentiators</b></summary>
+<summary>&ensp;<b>Key Differentiators</b></summary>
+
+<br/>
 
 | Feature | Implementation |
-|---------|---------------|
+|:--------|:---------------|
 | **Constitutional AI** | Blocks homework-solving queries with Socratic responses, flags edge cases for human review |
 | **Zero-Code Infra Swap** | Switched pub/sub from Redis → Kafka by changing 1 YAML file (Dapr abstraction) |
 | **14 Services in 6GB** | Full production stack at 44% memory utilization on Minikube |
@@ -159,24 +224,28 @@ graph TD
 </details>
 
 <details>
-<summary><b>Hackathon Progression — All Complete ✅ (Bronze → Agent Factory)</b></summary>
+<summary>&ensp;<b>Hackathon Progression — Bronze → Platinum</b></summary>
 
-| Hackathon | Project | Tier | What I Built | Tests |
-|-----------|---------|------|-------------|-------|
-| **H0** ✅ | Personal AI CTO | `Bronze` | File watcher, auto-categorization, HITL approvals | 7/7 |
-| **H1** ✅ | Course Companion | `Silver` | FastAPI backend, Constitutional AI filter, conversation tracking | - |
-| **H2** ✅ | AI-Powered Todo | `Silver` | Spec-driven development, AI spec generation, CRUD with constitution | - |
-| **H3** ✅ | Advanced Todo | `Gold` | Event-driven architecture, Kafka, Dapr, team collaboration | 149/149 |
-| **H4** ✅ | Cloud-Native | `Platinum` | Full Kubernetes cluster (14 manifests), CI/CD, Prometheus | - |
-| **H5** ✅ | Agent Factory | `Agent Factory` | TodoMaster AI Discord bot, K8s deployment, spec-driven agents | 31/31 |
+<br/>
 
-**85% code reusability across all 6 hackathons. Zero failures.**
+| # | Project | Tier | What I Built | Tests |
+|:-:|:--------|:-----|:-------------|:-----:|
+| **0** | Personal AI CTO | `Bronze` | File watcher, auto-categorization, HITL approvals | 7/7 |
+| **1** | Course Companion | `Silver` | FastAPI backend, Constitutional AI filter, conversation tracking | — |
+| **2** | AI-Powered Todo | `Silver` | Spec-driven development, AI spec generation, CRUD with constitution | — |
+| **3** | Advanced Todo | `Gold` | Event-driven architecture, Kafka, Dapr, team collaboration | 149/149 |
+| **4** | Cloud-Native | `Platinum` | Full Kubernetes cluster (14 manifests), CI/CD, Prometheus | — |
+| **4.5** | Discord Bot | `Extended` | TodoMaster AI with 6 slash commands, K8s deployment | 31/31 |
 
 </details>
 
+<br/>
+
 ---
 
-## 🔧 Engineering Expertise
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🔧 &nbsp;Engineering Expertise
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 Production-ready command across backend engineering, infrastructure, cloud, and AI — sharpened through 6 hackathons and live deployments.
 
@@ -188,6 +257,28 @@ Production-ready command across backend engineering, infrastructure, cloud, and 
 | **System Design & Scalability** | System Design Principles · Horizontal & Vertical Scaling · Nginx (Reverse Proxy & Load Balancer) · Microservices Architecture · DB Replication & Sharding |
 | **CI/CD & Cloud Infrastructure** | CI/CD Pipeline Design · AWS Deployment & Services · Infrastructure as Code (IaC) |
 | **AI Integration in Backend** | LLM APIs & Prompt Engineering · LangChain Framework · Retrieval-Augmented Generation (RAG) · Vector Databases (Pinecone, Weaviate, Milvus) |
+
+<br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🏭 &nbsp;Founder — Texcot Embroidery Sourcing House
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+> Built and deployed a production SaaS (**CMT Stitching System**) for the garment industry — because I run one. Order management, billing, inventory, dispatch, and financial tracking. **The only CMT software built by a CMT owner.**
+
+<br/>
+
+<a href="https://cmt-stitching-asadullah-shafiques-projects.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+---
 
 ---
 
@@ -232,46 +323,30 @@ Deployed     : ✅ Live in production
 
 ---
 
-## 🚀 Live Projects
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🚀 &nbsp;Live Projects
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-### 🏭 Textile ERP Platform — Multi-Tenant Fabric Mill SaaS
+### 🤖 Agentic OS Portfolio — A Portfolio That Is Itself an Agent System
 
 <div align="center">
 
-[![Live App](https://img.shields.io/badge/Live-Textile_ERP_Platform-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-three-kappa-64.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-textile--erp--platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadullah48/textile-erp-platform)
-[![Backend](https://img.shields.io/badge/Backend-Koyeb-6B47ED?style=for-the-badge&logo=koyeb&logoColor=white)]()
-[![DB](https://img.shields.io/badge/DB-Neon_PostgreSQL-00E599?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![Tests](https://img.shields.io/badge/Tenancy_Isolation-Tests_✅-brightgreen?style=for-the-badge)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique--devunity.vercel.app-00F2FF?style=for-the-badge&logo=vercel&logoColor=black)](https://asadullahshafique-devunity.vercel.app)
+[![AI Chat](https://img.shields.io/badge/AI_Chat-4_Specialist_Modes-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_15_%7C_FastAPI_%7C_SSE-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 
 </div>
 
-Production **multi-tenant SaaS** for Fabric Mill inventory — built spec-first, zero to live in one session.
+My **personal portfolio built as an agentic system** — a multi-mode AI chat agent (Portfolio Guide, Backend Specialist, Frontend Architect, Agent Builder) with streaming SSE, backed by FastAPI on Render, plus the Harness × Loop × Graph agent-engineering showcase.
 
 ```yaml
-Architecture : Multi-Tenant SaaS · PostgreSQL Row Level Security
-Backend      : FastAPI + asyncpg + Alembic · 19 API routes
-Frontend     : Next.js 15 + shadcn v4 + TypeScript strict
-Auth         : JWT with tenant-scoped DB sessions
-Infra        : Koyeb (backend) · Vercel (frontend) · Neon (DB)
-Key Feature  : RLS enforced at DB level — tenants are cryptographically isolated
-Tests        : Two-tenant cross-contamination isolation suite ✅
+Site         : Agentic OS Portfolio — asadullahshafique-devunity.vercel.app
+Stack        : Next.js 15 · TypeScript · Tailwind CSS · FastAPI · Render
+Agent        : 4-mode chat agent · streaming SSE · Discord-webhook contact pipeline
+AI-Ready     : llms.txt · JSON-LD Person schema · dynamic OG image
+Languages    : English + Arabic (full RTL)
+Deployed     : ✅ Live on Vercel (frontend) + Render (backend)
 ```
-
-<details>
-<summary><b>Feature breakdown</b></summary>
-
-| Feature | Detail |
-|---------|--------|
-| **Multi-Tenancy** | Row Level Security on every table — one DB, zero data leaks |
-| **Fabric Lot Management** | Full CRUD — fabric type, color, GSM, supplier, status |
-| **Roll Tracking** | Nested rolls per lot — length, weight, status, location |
-| **Dashboard Analytics** | Stat cards: total lots, meters available vs. reserved |
-| **Self-Serve Onboarding** | Company name → isolated workspace in seconds |
-| **Docker Compose** | Full local stack with one command |
-
-</details>
-
 ---
 
 ### 🧵 CMT Stitching System — Garment Production Management
@@ -292,7 +367,6 @@ Stack     : Next.js · TypeScript
 Live      : ✅ Deployed on Vercel
 Domain    : Textile & Garment Manufacturing (Pakistan · UAE)
 ```
-
 ---
 
 ### 🌐 Dubai E-Marketing & Business Services
@@ -319,114 +393,109 @@ Beyond software, I provide **digital marketing and e-marketing solutions** for D
 > 📧 **For business inquiries:** [texcotembroiderysourcinghouse@gmail.com](mailto:texcotembroiderysourcinghouse@gmail.com)
 > 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/asadullah-shafique-a00679325) · [Linktree](https://linktr.ee/asadullahshafique)
 
+<br/>
+
 ---
 
-### 🤖 Agentic OS Portfolio — A Portfolio That Is Itself an Agent System
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="26"> &nbsp;Other Projects
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique--devunity.vercel.app-9CE630?style=for-the-badge&logo=vercel&logoColor=black)](https://asadullahshafique-devunity.vercel.app)
-[![AI Chat](https://img.shields.io/badge/AI_Chat-4_Specialist_Modes-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
-[![Stack](https://img.shields.io/badge/Stack-Next.js_15_%7C_FastAPI_%7C_SSE-3178C6?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
+| &nbsp; | Project | Stack | Description |
+|:------:|:--------|:------|:------------|
+| **01** | **Physical AI Textbook Platform** | Next.js · FastAPI · RAG · Gemini | Interactive textbook with semantic search and context-aware RAG chatbot |
+| **02** | **LearnFlow AI Platform** | Microservices · FastAPI · K8s · Docker | 5 specialized AI agents for personalized programming education |
+| **03** | **Course Companion FTE** | FastAPI · ChatGPT API · Zero-Backend | Constitutional AI rules for LLM-based course management |
+| **04** | **Claude.ai Skills Marketplace** | 39 Skills · 8 Categories | Reusable agent skills — doc processing, automation, dev tools |
 
 </div>
 
-My **personal portfolio built as an agentic system** — a multi-mode AI chat agent (Portfolio Guide, Backend Specialist, Frontend Architect, Agent Builder) with streaming SSE, backed by FastAPI on Render, plus the Harness × Loop × Graph agent-engineering showcase.
-
-```yaml
-Site         : Agentic OS Portfolio — asadullahshafique-devunity.vercel.app
-Stack        : Next.js 15 · TypeScript · Framer Motion · FastAPI · Render
-Agent        : 4-mode chat agent · streaming SSE · Discord-webhook contact pipeline
-AI-Ready     : llms.txt · JSON-LD Person schema · dynamic OG image
-Languages    : English + Arabic (full RTL)
-Deployed     : ✅ Live on Vercel (frontend) + Render (backend)
-```
+<br/>
 
 ---
 
-## Other Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **[Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform)** | FastAPI, Next.js 15, PostgreSQL RLS, Koyeb, Vercel | Production multi-tenant SaaS — fabric lot/roll management with Row Level Security, 19 API routes, live deployment |
-| **[CMT Stitching System](https://cmt-stitching-asadullah-shafiques-projects.vercel.app)** | TypeScript, Next.js | Garment CMT production & packing management — live on Vercel |
-| **[Agentic OS Portfolio](https://asadullahshafique-devunity.vercel.app)** | Next.js 15, TypeScript, FastAPI, SSE, EN/AR | Portfolio built as an agentic system — 4-mode AI chat agent, harness × loop × graph showcase, llms.txt AI-discoverability |
-| **Physical AI Textbook Platform** | Next.js, FastAPI, RAG, Gemini API | Interactive textbook with semantic search and context-aware RAG chatbot |
-| **LearnFlow AI Platform** | Microservices, FastAPI, K8s, Docker | 5 specialized AI agents for personalized programming education |
-| **Course Companion FTE** | FastAPI, ChatGPT API, Zero-Backend | Constitutional AI rules for LLM-based course management |
-| **Claude.ai Skills Marketplace** | 39 Skills, 8 Categories | Reusable agent skills — document processing, automation, dev tools |
-| **RepoToVideo** | Python, AI | Turn any GitHub repository into a viral promo video with AI |
-| **Mathematics for AI** | Python, Educational | Comprehensive repository covering mathematical foundations of AI |
-
----
-
-## Tech Stack
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> &nbsp;Tech Stack
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-**Languages & Frameworks**
+**`LANGUAGES & FRAMEWORKS`**
 
 [![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,tailwind,fastapi,nodejs&theme=dark&perline=8)](https://skillicons.dev)
 
-**Cloud-Native & Infrastructure**
+**`CLOUD-NATIVE & INFRASTRUCTURE`**
 
 [![Infrastructure](https://skillicons.dev/icons?i=kubernetes,docker,kafka,redis,postgresql,prometheus,grafana,githubactions&theme=dark&perline=8)](https://skillicons.dev)
 
-**AI, Tools & Platforms**
+**`AI · TOOLS · PLATFORMS`**
 
 [![AI & Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,linux,vscode,vercel,discord&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
 <details>
-<summary><b>Full Stack Breakdown</b></summary>
+<summary>&ensp;<b>Full Stack Breakdown</b></summary>
+
+<br/>
 
 ```javascript
-const stack = {
-  languages: ["Python", "TypeScript", "JavaScript"],
-  frontend: ["Next.js 15", "React", "Tailwind CSS", "shadcn/ui", "Framer Motion"],
-  backend: ["FastAPI", "Node.js", "Uvicorn"],
-  ai: ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP", "A2A"],
-  agentSDKs: ["Claude Agent SDK", "OpenAI Agents SDK", "Google ADK"],
-  agentFrameworks: ["LangGraph", "CrewAI", "AutoGen", "OpenAI Swarm"],
-  databases: ["PostgreSQL 15", "Redis 7", "Neon (serverless Postgres)", "Vector DBs (Pinecone, Chroma, Qdrant, Weaviate)"],
-  deployment: ["Vercel (frontend)", "Koyeb (backend)", "Render (APIs)", "Neon (database)"],
-  infrastructure: ["Kubernetes", "Docker", "Dapr", "Helm"],
-  streaming: ["Apache Kafka (Strimzi KRaft)"],
-  monitoring: ["Prometheus", "Grafana", "OpenTelemetry"],
-  cicd: ["GitHub Actions (test → build → validate → security)"],
-  bots: ["discord.py (slash commands)"],
-  apis: ["OpenAI", "Claude (Anthropic)", "Google Gemini"],
-  protocols: ["MCP (Model Context Protocol)", "A2A (Agent-to-Agent)", "REST", "Dapr Pub/Sub"],
-  architecture: ["Microservices", "Event-Driven", "API-First", "Infrastructure-Agnostic"],
-  domains: ["Textile & Garment Manufacturing", "Dubai Construction & Trading", "Import/Export", "Multi-Tenant SaaS"],
-  methodology: "Specification-First Development",
-  nextPhase: "Digital Agent Factory Builder"
+const techStack = {
+    languages      : ["Python", "TypeScript", "JavaScript"],
+    frontend       : ["Next.js 15", "React", "Tailwind CSS"],
+    backend        : ["FastAPI", "Node.js", "Uvicorn"],
+    ai_ml          : ["Constitutional AI", "RAG Systems", "LangChain", "LangGraph", "MCP"],
+    databases      : ["PostgreSQL 15", "Redis 7", "Pinecone", "Chroma", "Neon (serverless Postgres)"],
+    deployment     : ["Vercel (frontend)", "Koyeb (backend)", "Neon (database)"],
+    infrastructure : ["Kubernetes", "Docker", "Dapr", "Helm"],
+    streaming      : ["Apache Kafka (Strimzi KRaft)"],
+    monitoring     : ["Prometheus", "Grafana", "OpenTelemetry"],
+    cicd           : ["GitHub Actions — test → build → validate → security"],
+    bots           : ["discord.py (slash commands)"],
+    apis           : ["OpenAI", "Claude (Anthropic)", "Google Gemini"],
+    protocols      : ["MCP", "A2A", "REST", "Dapr Pub/Sub"],
+    architecture   : ["Microservices", "Event-Driven", "API-First"],
+    methodology    : "Specification-First Development"
 };
 ```
 
 </details>
 
+<br/>
+
 ---
 
-## 2026 Focus Areas
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🌐 &nbsp;Domain Expertise
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+**Textile & CMT Manufacturing** · **Dubai Real Estate Marketing** · **Digital Marketing Strategy** · **E-Commerce Growth** · **Digital FTE Productization**
+
+</div>
+
+<br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🗺️ &nbsp;2026 Roadmap
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 ```mermaid
+%%{init: {'theme': 'dark'}}%%
 mindmap
   root((2026 Focus))
-    Agent Factory & FTEs
-      Digital Employees
-      Spec-Driven Agents
-      Agent Skills Marketplace
-      Monetizing AI Knowledge
     Agent Protocols
       MCP
       A2A Protocol
       Claude Agent SDK
       OpenAI Agents SDK
-      Google ADK
     Multi-Agent Systems
       LangGraph
       CrewAI
@@ -453,111 +522,166 @@ mindmap
 
 </div>
 
+<br/>
+
 | Area | Technologies | Why It Matters |
-|------|-------------|----------------|
-| **🏭 Agent Factory** | Digital FTEs, Agent Skills, Spec-Driven Automation | Building AI employees that handle end-to-end workflows autonomously |
-| **Agent Protocols** | MCP, A2A (Google/Linux Foundation), Claude Agent SDK, OpenAI Agents SDK | Standardizing how AI agents communicate and use tools |
-| **Multi-Agent Systems** | LangGraph, CrewAI, AutoGen, OpenAI Swarm | Orchestrating specialized agents for complex workflows |
-| **Observability** | OpenTelemetry, Grafana Stack (Loki + Tempo) | Unified telemetry for AI-native applications |
+|:-----|:-------------|:---------------|
+| **Agent Protocols** | MCP, A2A, Claude Agent SDK | Standardizing how AI agents communicate and use tools |
+| **Multi-Agent Systems** | LangGraph, CrewAI, AutoGen, Swarm | Orchestrating specialized agents for complex workflows |
+| **Observability** | OpenTelemetry, Grafana (Loki + Tempo) | Unified telemetry for AI-native applications |
 | **Vector Databases** | Pinecone, Qdrant, Chroma, Weaviate | Scaling RAG systems to production |
-| **Edge AI** | WebAssembly (Wasm), ONNX Runtime | Running inference at the edge without cloud dependency |
-| **Platform Engineering** | Backstage, Crossplane, Terraform | Building internal developer platforms for AI workloads |
-| **AI Safety** | Constitutional AI, RLHF, Human-in-the-Loop | Ensuring AI systems are safe and aligned |
+| **Edge AI** | WebAssembly, ONNX Runtime | Running inference at the edge without cloud dependency |
+| **Platform Engineering** | Backstage, Crossplane, Terraform | Internal developer platforms for AI workloads |
+| **AI Safety** | Constitutional AI, RLHF, HITL | Ensuring AI systems are safe and aligned |
+
+<br/>
 
 ---
 
-## GitHub Stats
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 📊 &nbsp;GitHub Analytics
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asadullah48&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asadullah48&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=asadullah48&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullah48&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah48&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=asadullah48&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadullah48&theme=algolia&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="49%" alt="GitHub Streak" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asadullah48&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah48&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asadullah48&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area_color=1f6feb&custom_title=Contribution%20Activity)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
----
-
-## Goals
-
-- [x] Complete all 6 Panaversity Hackathons (Bronze → Agent Factory) ✅
-- [x] Build cloud-native system with Kubernetes, Kafka, and Dapr ✅
-- [x] Implement Constitutional AI safety with Human-in-the-Loop ✅
-- [x] Build event-driven architecture with Apache Kafka & Dapr ✅
-- [x] Deploy 14 services in Kubernetes with CI/CD pipeline ✅
-- [x] Build Discord bot (TodoMaster AI) with K8s deployment ✅
-- [x] Ship production multi-tenant SaaS — Textile ERP Platform (live: Koyeb + Vercel) ✅
-- [x] Ship CMT Stitching & Packing Management System (live on Vercel) ✅
-- [x] Deliver AI-powered e-marketing solutions for Dubai construction & trading sector ✅
-- [x] Found Texcot Embroidery Sourcing House (Pakistan · UAE textile industry) ✅
-- [ ] Build Digital Agent Factory with MCP, A2A & Agent SDKs
-- [ ] Build multi-agent system with MCP and A2A protocols
-- [ ] Contribute to 3+ open-source AI/ML projects
-- [ ] Publish 24+ technical articles and videos
-- [ ] Launch course on Specification-Driven AI Development
-- [ ] Grow YouTube channel to 1K+ subscribers
-- [ ] Build and ship production Digital FTEs (AI employees)
+<br/>
 
 ---
 
-## Philosophy
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 🎯 &nbsp;Goals
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### &ensp;Completed
+
+&ensp;&ensp;✅&ensp;Complete all 6 Panaversity Hackathons (Bronze → Platinum)
+<br/>
+&ensp;&ensp;✅&ensp;Build cloud-native system with K8s, Kafka, and Dapr
+<br/>
+&ensp;&ensp;✅&ensp;Implement Constitutional AI safety with HITL
+<br/>
+&ensp;&ensp;✅&ensp;Ship production multi-tenant SaaS (Textile ERP Platform — live on Koyeb + Vercel)
+
+</td>
+<td width="50%" valign="top">
+
+#### &ensp;In Progress
+
+&ensp;&ensp;⬜&ensp;Build multi-agent system with MCP & A2A protocols
+<br/>
+&ensp;&ensp;⬜&ensp;Contribute to 3+ open-source AI/ML projects
+<br/>
+&ensp;&ensp;⬜&ensp;Publish 24+ technical articles and videos
+<br/>
+&ensp;&ensp;⬜&ensp;Launch course on Spec-Driven AI Development
+<br/>
+&ensp;&ensp;⬜&ensp;Grow YouTube channel to 1K+ subscribers
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## 💡 &nbsp;Philosophy
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
 
 > *"Traditional approach: Avoid AI mistakes.*
-> *My approach: **Learn FROM AI mistakes.***
+> *My approach: Learn FROM AI mistakes.*
 > *Because real innovation happens at the edges of failure."*
 
-> *"We don't just teach people how to code; we are teaching them how to build and monetize Digital Agent Factories."*
+<br/>
 
-| Principle | Practice |
-|-----------|----------|
-| **Spec-First** | No code without a specification |
-| **Production Quality** | Every project is deployment-ready |
-| **Zero Failures** | 85% code reuse · 6 hackathons · 0 failed attempts |
-| **AI as Collaborator** | Not just a tool — a thinking partner |
-| **Open Source** | Share knowledge, elevate the community |
-| **Agent Factory Mindset** | From manual coding to spec-driven automation |
-
----
-
-## Writing & Content
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-Building_AI_Systems-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@asadullahshafique4261)
-[![Medium](https://img.shields.io/badge/Medium-Deep_Dives_in_AI-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
+| | Principle | Practice |
+|:-:|:----------|:---------|
+| `01` | **Spec-First** | No code without a specification |
+| `02` | **Production Quality** | Every project is deployment-ready |
+| `03` | **AI as Collaborator** | Not just a tool — a thinking partner |
+| `04` | **Open Source** | Share knowledge, elevate the community |
 
 </div>
 
-**Topics:** Agentic AI | Agent Factory & Digital FTEs | Spec-Driven Development | Cloud-Native Architecture | Constitutional AI Safety | Multi-Agent Systems | MCP & A2A Protocols
+<br/>
 
 ---
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+## ✍️ &nbsp;Writing & Content
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
 
-### Let's build something together
+<a href="https://youtube.com/@asadullahshafique4261"><img src="https://img.shields.io/badge/YouTube-Building_AI_Systems-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&ensp;
+<a href="https://medium.com/@texcotembroiderysourcinghouse"><img src="https://img.shields.io/badge/Medium-Deep_Dives_in_AI-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-I'm open to collaborating on **AI/ML projects**, **cloud-native systems**, **Agent Factory development**, **hackathon partnerships**, **open-source dev communities** (DevUnity), and **e-marketing automation for UAE/Dubai businesses** (construction · trading · import/export) and **Pakistani SMEs**.
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-asadullahshafique-FF6B35?style=flat-square&logo=vercel&logoColor=white)](https://asadullahshafique-devunity.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@texcotembroiderysourcinghouse)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@asadullahshafique4261)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/asadullah.shafique?mibextid=ZbWKwL)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/asadullahshafique)
-
-![Profile Views](https://komarev.com/ghpvc/?username=asadullah48&color=36BCF7&style=flat-square&label=Profile+Views)
+`Agentic AI` · `Spec-Driven Development` · `Cloud-Native Architecture` · `Constitutional AI Safety` · `Multi-Agent Systems`
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+---
+
+<br/>
+
+<div align="center">
+
+### Let's Build Something Together
+
+<sub>Open to collaborating on **AI/ML projects**, **cloud-native systems**, and **hackathon partnerships**.</sub>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/asadullah-shafique-a00679325"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&ensp;
+<a href="https://medium.com/@texcotembroiderysourcinghouse"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>&ensp;
+<a href="https://youtube.com/@asadullahshafique4261"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>&ensp;
+<a href="https://www.facebook.com/asadullah.shafique?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>&ensp;
+<a href="https://linktr.ee/asadullahshafique"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" /></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=asadullah48&color=1f6feb&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<img src="assets/footer.svg" alt="Build agents that act — not just respond." width="100%" />
