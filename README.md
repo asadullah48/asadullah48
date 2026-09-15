@@ -106,6 +106,47 @@ Pre-flight controls, bounded execution, post-flight enforcement, circuit breaker
 
 ---
 
+## Agent system architecture
+
+<div align="center">
+
+> One governed request path—from intent to verified, auditable execution.
+
+</div>
+
+```mermaid
+flowchart TD
+    A["Request"] --> B["Input guardrails"]
+    B --> C["Supervisor"]
+    C --> D["Specialist agents"]
+    D --> E["Governed tools"]
+    E --> F["Observation"]
+    F --> G{"Verified?"}
+    G -->|Retry or fallback| C
+    G -->|Pass| H["Audited result"]
+
+    C -. typed route .-> I["Shared state"]
+    D -. evidence .-> I
+    E -. tool calls .-> I
+    I --> H
+```
+
+| Control | Engineering guarantee |
+|---|---|
+| **Supervisor routing** | One deterministic decision point controls every handoff |
+| **Guardrails** | Policy checks run before and after probabilistic execution |
+| **Verification loop** | Evidence—not confidence—decides whether work passes |
+| **Typed shared state** | Routes, observations, tool calls, and failures remain inspectable |
+| **Audit result** | The final response can be traced back to the execution path |
+
+<div align="center">
+
+[**Inspect the interactive nine-stage agent trace →**](https://asadullahshafique-devunity.vercel.app/#agent-trace)
+
+</div>
+
+---
+
 ## Selected systems
 
 | System | Outcome | Evidence |
