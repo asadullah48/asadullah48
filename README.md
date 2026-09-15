@@ -1,16 +1,21 @@
+<img src="assets/banner.svg" alt="Asadullah Shafique — Agentic AI Systems Engineer" width="100%" />
+
 <div align="center">
 
-# Asadullah Shafique
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&height=52&lines=Engineering+AI+systems+that+actually+ship;Deterministic+routing+%C2%B7+Governed+tools+%C2%B7+Auditable+runs;Harness+%C3%97+Loop+%C3%97+Graph;Turn+AI+into+reliable+business+capacity)](https://asadullahshafique-devunity.vercel.app/)
 
-### Agentic AI Systems Engineer
+<br/>
 
-**I engineer AI systems that move from reasoning to reliable execution.**
+[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=071014)](https://asadullahshafique-devunity.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
+[![Repositories](https://img.shields.io/badge/INSPECT_SYSTEMS-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadullah48?tab=repositories)
 
-Production-oriented agents that coordinate workflows, use tools, preserve state, operate under guardrails, and leave an auditable trail.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://asadullahshafique-devunity.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-shafique-a00679325)
-[![GitHub](https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadullah48?tab=repositories)
+![Orchestration](https://img.shields.io/badge/ORCHESTRATION-39_TESTS-00E5FF?style=flat-square&labelColor=161B22)
+![Interoperability](https://img.shields.io/badge/MCP_%C3%97_A2A-61_TESTS-8B5CF6?style=flat-square&labelColor=161B22)
+![Guardrails](https://img.shields.io/badge/GUARDRAILS-17_TESTS-22C55E?style=flat-square&labelColor=161B22)
+![Focus](https://img.shields.io/badge/FOCUS-AGENTIC_AI-F59E0B?style=flat-square&labelColor=161B22)
 
 `Agent Orchestration` · `MCP` · `A2A` · `Guardrails` · `Evaluation` · `Kubernetes`
 
@@ -131,6 +136,22 @@ Method           Specification-first · evidence-driven · human-governed
 I am building toward **AI operating systems that turn AI into business capacity**: supervised agents with durable context, governed tools, deterministic progression, auditable decisions, and clear human approval gates.
 
 The goal is not more isolated prompts. It is reliable systems that help small teams research, prepare, execute, verify, and report work at greater scale.
+
+## Engineering activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullah48&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00E5FF&line=8B5CF6&point=FFFFFF&area_color=7C3AED&custom_title=Engineering%20Activity" width="100%" alt="Asadullah Shafique engineering activity graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake.svg" />
+  <img alt="Contribution activity animation" src="https://raw.githubusercontent.com/asadullah48/asadullah48/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 
