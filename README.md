@@ -158,6 +158,21 @@ flowchart TD
 
 ---
 
+## Claude Academy course badges
+
+Completion badges from Claude Academy, Anthropic's learning platform. Each course title links to its public verification page.
+
+- [AI Fluency: Framework and foundations](https://academy.claude.com/verify/20a54be8bbdcfa54f1ffee06f6c45082)
+- [Introduction to Claude Cowork](https://academy.claude.com/verify/e14c137e39659a99fb79e7afc1394c09)
+- [Claude Code 101](https://academy.claude.com/verify/64b43e3f91ee11516e562d2c35801e3a)
+- [AI Fluency for builders](https://academy.claude.com/verify/2cfb8dd802a841177aba39028ef6cf4e)
+- [AI capabilities and limitations](https://academy.claude.com/verify/e5f7a0e1a35e7d3e6626241402d556be)
+- [Claude 101](https://academy.claude.com/verify/6d808a4f90c00a98b326959280f5c280)
+- [Introduction to Model Context Protocol](https://academy.claude.com/verify/f8192381a00c3d85b011b7cd94673286)
+- [Claude Code in action](https://academy.claude.com/verify/881db997d7957558e2d108c9ab9d174e)
+
+---
+
 ## Engineering stack
 
 ```text
