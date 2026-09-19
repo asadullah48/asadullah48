@@ -168,8 +168,8 @@ Completion badges from Claude Academy, Anthropic's learning platform. Each cours
 - [AI Fluency for builders](https://academy.claude.com/verify/2cfb8dd802a841177aba39028ef6cf4e)
 - [AI capabilities and limitations](https://academy.claude.com/verify/e5f7a0e1a35e7d3e6626241402d556be)
 - [Claude 101](https://academy.claude.com/verify/6d808a4f90c00a98b326959280f5c280)
-- [Introduction to Model Context Protocol](https://academy.claude.com/verify/f8192381a00c3d85b011b7cd94673286)
-- [Claude Code in action](https://academy.claude.com/verify/881db997d7957558e2d108c9ab9d174e)
+- [Claude Code in action](https://academy.claude.com/verify/f8192381a00c3d85b011b7cd94673286)
+- [Introduction to Model Context Protocol](https://academy.claude.com/verify/881db997d7957558e2d108c9ab9d174e)
 
 ---
 
