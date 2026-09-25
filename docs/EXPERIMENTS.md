@@ -55,6 +55,31 @@ default branch.
 
 ## Entries
 
+### EXP-002 — Remove the dead Neon preview-branch workflow (closes O-5)
+
+| | |
+|:--|:--|
+| **Date** | 2026-09-25 |
+| **Branch** | `claude/admiring-lovelace-vps5dp` (same PR as EXP-001) |
+| **Anchor** | `main` = `7b8f072`. The workflow file can be restored from that commit. |
+| **Verdict** | **PENDING** (becomes KEEP when merged) |
+
+**What I tried:** Deleted
+`.github/workflows/neon-preview-branches-for-pull-requests-curly-fog-13682342.yml`
+and updated `CLAUDE.md`, which documented it.
+
+**Why:** Open item O-5. The workflow created and deleted a Neon Postgres
+branch for every PR, but this repo has no database. The `NEON_API_KEY`
+secret was never set, so every PR showed a failed check. On PR #4 the
+job log read `Cannot run interactive auth in CI` → `branch creation failed`.
+Nothing consumed its outputs.
+
+**What actually happened:** _(fill in after merge: PRs no longer show a
+failed "Create Neon Branch" check)_
+
+**Also safe to remove afterwards, by hand in repo settings:** the
+`NEON_PROJECT_ID` Actions variable and any `NEON_API_KEY` secret, if present.
+
 ### EXP-001 — MCP call-to-action and evidence refresh
 
 | | |
@@ -106,7 +131,7 @@ except the addition of `docs/`.
 | O-2 | `CLAUDE.md` on `main` documents a `.claude/` tree that does not exist on `main` | OPEN |
 | O-3 | 12 `tmpclaude-*-cwd` scratch files committed to git | OPEN |
 | O-4 | No `.gitignore`, so O-3 will recur | OPEN |
-| O-5 | Neon Postgres preview-branch workflow runs on every PR but this repo has no database | OPEN |
+| O-5 | Neon Postgres preview-branch workflow runs on every PR but this repo has no database | **RESOLVED — EXP-002** |
 | O-6 | Stale worktree `.claude/worktrees/beautiful-elion` pinned at Feb's `8e95e23` | OPEN |
 | O-7 | `nul` (0-byte Windows artifact) untracked in repo root | OPEN |
 | O-8 | `.claude/specs` and `.claude/steering` are configured in `kfc-settings.json` but never created — spec workflow unused | OPEN |

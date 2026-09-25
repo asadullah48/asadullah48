@@ -17,8 +17,8 @@ This is a GitHub profile repository (`asadullah48/asadullah48`). The main README
 ### Snake Animation (`snake.yml`)
 Generates contribution graph snake animation daily and on manual trigger. Outputs to `output` branch.
 
-### Neon Preview Branches (`neon-preview-branches-*.yml`)
-Creates/deletes Neon database preview branches for PRs. Requires `NEON_API_KEY` secret and `NEON_PROJECT_ID` variable.
+### Neon Preview Branches (removed 2026-09-25)
+Removed in EXP-002. It created a Neon database branch for every PR, but this repo has no database and the `NEON_API_KEY` secret was never set, so it failed on every PR. Do not re-add it unless the repo gains a database.
 
 ## Spec-Driven Development Workflow
 
