@@ -35,6 +35,18 @@ I also lead **Texcot Embroidery Sourcing House**, which gives me direct experien
 
 ---
 
+## Ask your AI about me
+
+My portfolio is also a live **MCP server**. Add it to Claude Code, then ask about my skills, projects, or how to reach me:
+
+```bash
+claude mcp add --transport http asadullah-portfolio https://asadullahshafique-devunity.onrender.com/mcp/server
+```
+
+Six read-only tools, served over Streamable HTTP. In Claude on desktop or the web, add the same URL as a custom connector. It runs on a free tier that sleeps, so the first request can take about a minute. [Setup and source →](https://asadullahshafique-devunity.vercel.app/#connect-mcp)
+
+---
+
 ## Verified engineering evidence
 
 Every claim below links to inspectable source code or a live system.
@@ -45,6 +57,8 @@ Every claim below links to inspectable source code or a live system.
 | MCP × A2A interoperability | **61 tests · protocol-level transport** | [ProtoBridge protocols](https://github.com/asadullah48/protobridge/tree/main/src/protobridge/protocols) |
 | Deterministic guardrails | **17 tests · 3 compliance domains** | [GuardrailAI controls](https://github.com/asadullah48/guardrailai/tree/main/guardrailai/guardrails) |
 | Portfolio agent runtime | **Typed routes · tools · fallbacks** | [Source](https://github.com/asadullah48/asadullahshafique_devunity) · [Live](https://asadullahshafique-devunity.vercel.app/) |
+| Live MCP server | **6 read-only tools · Streamable HTTP** | [Server](https://github.com/asadullah48/asadullahshafique_devunity/blob/main/backend/mcp_server.py) · [Connect](https://asadullahshafique-devunity.vercel.app/#connect-mcp) |
+| Portfolio service tests | **49 tests · blocking CI gate** | [Tests](https://github.com/asadullah48/asadullahshafique_devunity/tree/main/backend/tests) |
 
 > Test counts describe the linked repositories at the time of verification. The portfolio states limitations and distinguishes representative traces from captured production telemetry.
 
@@ -90,7 +104,7 @@ Pre-flight controls, bounded execution, post-flight enforcement, circuit breaker
 </tr>
 </table>
 
-[**Read the full architecture case studies →**](https://asadullahshafique-devunity.vercel.app/#projects)
+[**Read the full architecture case studies →**](https://asadullahshafique-devunity.vercel.app/#flagship-case-studies)
 
 ---
 
@@ -153,6 +167,7 @@ flowchart TD
 |---|---|---|
 | [Agentic OS Portfolio](https://asadullahshafique-devunity.vercel.app/) | A portfolio that exposes its architecture, agent runtime, trace model, and source evidence | [Repository](https://github.com/asadullah48/asadullahshafique_devunity) |
 | [Textile ERP Platform](https://github.com/asadullah48/textile-erp-platform) | Multi-tenant fabric inventory SaaS with PostgreSQL row-level security | [Repository](https://github.com/asadullah48/textile-erp-platform) |
+| [CMT Stitching System](https://github.com/asadullah48/cmt-stitching-system) | Garment production management: orders through dispatch, bills generated on dispatch, party ledgers with oldest-first payment allocation | [Repository](https://github.com/asadullah48/cmt-stitching-system) |
 | [Hackathon Completion Engine](https://github.com/asadullah48/hackathon-completion-engine) | Event-driven AI platform using FastAPI, Kafka, Dapr, Kubernetes, and safety middleware | [Repository](https://github.com/asadullah48/hackathon-completion-engine) |
 | [Agentic Reference Platforms](https://github.com/asadullah48?tab=repositories) | Open-source domain implementations with agent architectures, gateways, and test suites | [Explore GitHub](https://github.com/asadullah48?tab=repositories) |
 

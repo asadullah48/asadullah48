@@ -55,6 +55,37 @@ default branch.
 
 ## Entries
 
+### EXP-001 — MCP call-to-action and evidence refresh
+
+| | |
+|:--|:--|
+| **Date** | 2026-09-25 |
+| **Branch** | `claude/admiring-lovelace-vps5dp` |
+| **Anchor** | `main` = `7b8f072` |
+| **Verdict** | **PENDING** |
+
+**What I tried:** Four targeted README edits, no redesign:
+1. New "Ask your AI about me" section with the one-line Claude Code command
+   for the portfolio's MCP server.
+2. Two new evidence rows: the live MCP server (6 read-only tools) and the
+   portfolio's 49 backend tests, now a blocking CI gate.
+3. The case-studies link now points to `#flagship-case-studies`, where the
+   three architecture reviews moved to. It pointed to `#projects` before.
+4. CMT Stitching System added to Selected systems.
+
+**Why:** A profile you can connect to from your own AI is a stronger
+agentic-AI signal than more badges, and every new claim links to source.
+This matches the portfolio changes merged the same day (portfolio PRs #7–#9).
+
+**What actually happened:** _(fill in after merging: profile views,
+enquiries or MCP connections mentioning it)_
+
+**Verdict reasoning:** _(pending; keep/discard criteria above are not yet
+filled in)_
+
+**Check before keeping:** the MCP endpoint must answer `initialize` with 200,
+not 421, after the portfolio's Render backend redeploys (portfolio PR #8).
+
 ### EXP-000 — Baseline recorded _(not an experiment)_
 
 | | |
