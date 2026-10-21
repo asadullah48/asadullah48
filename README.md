@@ -60,7 +60,7 @@ Every claim below links to inspectable source code or a live system.
 | Live MCP server | **6 read-only tools · Streamable HTTP** | [Server](https://github.com/asadullah48/asadullahshafique_devunity/blob/main/backend/mcp_server.py) · [Connect](https://asadullahshafique-devunity.vercel.app/#connect-mcp) |
 | Portfolio service tests | **49 tests · blocking CI gate** | [Tests](https://github.com/asadullah48/asadullahshafique_devunity/tree/main/backend/tests) |
 
-> Test counts verified 21 Oct 2026 by running each suite on main: OrchestratorX 1ca950a, ProtoBridge 3449d8d, GuardrailAI 69dd5d9, portfolio 6bd3c45. The portfolio states limitations and distinguishes representative traces from captured production telemetry.
+> Test counts verified 21 Oct 2026 on main: OrchestratorX 1ca950a, ProtoBridge 3449d8d, GuardrailAI 69dd5d9, portfolio 6bd3c45.
 
 ---
 
