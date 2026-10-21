@@ -12,9 +12,9 @@
 
 <br/>
 
-![Orchestration](https://img.shields.io/badge/ORCHESTRATION-39_TESTS-00E5FF?style=flat-square&labelColor=161B22)
-![Interoperability](https://img.shields.io/badge/MCP_%C3%97_A2A-61_TESTS-8B5CF6?style=flat-square&labelColor=161B22)
-![Guardrails](https://img.shields.io/badge/GUARDRAILS-17_TESTS-22C55E?style=flat-square&labelColor=161B22)
+![Orchestration](https://img.shields.io/badge/ORCHESTRATION-41_TESTS-00E5FF?style=flat-square&labelColor=161B22)
+![Interoperability](https://img.shields.io/badge/MCP_%C3%97_A2A-65_TESTS-8B5CF6?style=flat-square&labelColor=161B22)
+![Guardrails](https://img.shields.io/badge/GUARDRAILS-42_TESTS-22C55E?style=flat-square&labelColor=161B22)
 ![Focus](https://img.shields.io/badge/FOCUS-AGENTIC_AI-F59E0B?style=flat-square&labelColor=161B22)
 
 `Agent Orchestration` · `MCP` · `A2A` · `Guardrails` · `Evaluation` · `Kubernetes`
@@ -53,14 +53,14 @@ Every claim below links to inspectable source code or a live system.
 
 | Discipline | Evidence | Inspect |
 |---|---:|---|
-| Deterministic orchestration | **39 tests · 0 API keys** | [OrchestratorX tests](https://github.com/asadullah48/orchestratorx/tree/main/tests) |
-| MCP × A2A interoperability | **61 tests · protocol-level transport** | [ProtoBridge protocols](https://github.com/asadullah48/protobridge/tree/main/src/protobridge/protocols) |
-| Deterministic guardrails | **17 tests · 3 compliance domains** | [GuardrailAI controls](https://github.com/asadullah48/guardrailai/tree/main/guardrailai/guardrails) |
+| Deterministic orchestration | **41 tests · 0 API keys** | [OrchestratorX tests](https://github.com/asadullah48/orchestratorx/tree/main/tests) |
+| MCP × A2A interoperability | **65 tests · protocol-level transport** | [ProtoBridge protocols](https://github.com/asadullah48/protobridge/tree/main/src/protobridge/protocols) |
+| Deterministic guardrails | **42 tests · 3 compliance domains** | [GuardrailAI controls](https://github.com/asadullah48/guardrailai/tree/main/guardrailai/guardrails) |
 | Portfolio agent runtime | **Typed routes · tools · fallbacks** | [Source](https://github.com/asadullah48/asadullahshafique_devunity) · [Live](https://asadullahshafique-devunity.vercel.app/) |
 | Live MCP server | **6 read-only tools · Streamable HTTP** | [Server](https://github.com/asadullah48/asadullahshafique_devunity/blob/main/backend/mcp_server.py) · [Connect](https://asadullahshafique-devunity.vercel.app/#connect-mcp) |
 | Portfolio service tests | **49 tests · blocking CI gate** | [Tests](https://github.com/asadullah48/asadullahshafique_devunity/tree/main/backend/tests) |
 
-> Test counts describe the linked repositories at the time of verification. The portfolio states limitations and distinguishes representative traces from captured production telemetry.
+> Test counts verified 21 Oct 2026 by running each suite on main: OrchestratorX 1ca950a, ProtoBridge 3449d8d, GuardrailAI 69dd5d9, portfolio 6bd3c45. The portfolio states limitations and distinguishes representative traces from captured production telemetry.
 
 ---
 
